@@ -1,0 +1,5 @@
+a#mail-archive-logo { float: left; top: 2px; left: 2px;
+margin: 0px; padding: 0px;
+background-image: url(logo.png); background-repeat: no-repeat;
+width: 50px; height: 50px; }
+#listlink { float: right; margin: 0 75px 0 0; }
