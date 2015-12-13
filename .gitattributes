@@ -9,7 +9,6 @@
 *.ogg filter=lfs diff=lfs merge=lfs -text
 *.webm filter=lfs diff=lfs merge=lfs -text
 *.h264 filter=lfs diff=lfs merge=lfs -text
-*.mp3 filter=lfs diff=lfs merge=lfs -text
 *.mp2 filter=lfs diff=lfs merge=lfs -text
 *.mpg filter=lfs diff=lfs merge=lfs -text
 *.mpeg filter=lfs diff=lfs merge=lfs -text
@@ -41,3 +40,4 @@
 *.sln filter=lfs diff=lfs merge=lfs -text
 *.jfif filter=lfs diff=lfs merge=lfs -text
 *.bmp filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=media -crlf
