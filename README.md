@@ -7,7 +7,7 @@ Atualmente utilizando Github LFS para armazenar arquivos de midia como pointers 
 
 ### Biblioteca Pirata
 
-Espelho dos arquivos enviados para a [biblioteca](https://biblioteca.partidopirata.org) adicionado como git submodule
+Espelho dos arquivos enviados para a [biblioteca](https://biblioteca.partidopirata.org) atualizado automaticamente a cada hora
 
 ### Roadmap
 - Estudar viabilidade de implementação do [Git Annex](https://git-annex.branchable.com/tips/centralized_git_repository_tutorial/on_GitHub/) ou [Git Media](https://github.com/alebedev/git-media) para descentralizar armazenamento de arquivos grandes ou linkar diretamente com recursos em serviços externos como Youtube e Soundcloud

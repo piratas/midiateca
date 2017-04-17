@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="80px"
+   height="15px"
+   viewBox="0 0 80 15"
+   enable-background="new 0 0 80 15"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="kopimi-80x15.svg"><metadata
+   id="metadata7875"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title><cc:license
+         rdf:resource="http://kopimi.com/" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs7873" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="962"
+   id="namedview7871"
+   showgrid="false"
+   inkscape:zoom="6.7882251"
+   inkscape:cx="9.7898032"
+   inkscape:cy="39.748737"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g7833">
+	<rect
+   fill="#FFFFFF"
+   width="80"
+   height="15"
+   id="rect7835" />
+</g>
+<path
+   d="M23.797,2c1.004,1.596,1.593,3.477,1.593,5.501c0,2.023-0.589,3.904-1.593,5.499h55.877V2H23.797z"
+   id="path7837" />
+
+
+<g
+   id="g7867">
+	<path
+   d="M80,0v15H0V0H80 M79.25,0.75H0.75v13.5h78.5V0.75L79.25,0.75z"
+   id="path7869" />
+</g>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.8275671px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="26.822933"
+   y="9.8526554"
+   id="text8433"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan8435"
+     x="26.822933"
+     y="9.8526554">KOPIMI</tspan></text>
+
+<g
+   id="g8429"
+   transform="matrix(0.0745854,0,0,0.0745854,2.9617542,-2.0469312)"><circle
+     id="circle8419"
+     r="119.428"
+     cy="128"
+     cx="128"
+     style="fill:#ffffff;stroke:#000000;stroke-width:16.50230026" /><path
+     id="path8421"
+     d="m 540.624,256.347 -23.924,17.089 -106.997,-75.713 0,-64.408 23.922,-16.825 38.384,26.815 0,-53.8924 23.924,-17.0894 24.186,17.0894 0,53.8924 17.352,-12.094 20.507,14.461 20.767,-14.723 24.186,17.089 0,64.409 -24.186,16.825 -20.767,-14.724 -17.352,12.358 z m -124.346,-123.034 17.351,12.357 17.614,-12.357 -17.614,-12.356 z m 20.767,14.723 17.351,12.356 17.614,-12.356 -17.351,-12.358 z m 20.506,14.722 17.615,12.355 17.614,-12.355 -17.614,-12.356 z m 38.382,-85.703 -17.614,12.356 17.614,12.353 17.612,-12.353 z m 0,29.443 -17.614,12.356 17.614,12.355 17.351,-12.618 z m 0,29.18 -17.614,12.358 17.614,12.356 17.351,-12.356 z m -17.612,41.801 17.614,12.094 17.351,-12.356 -17.351,-12.094 z m 20.767,14.459 17.612,12.356 17.352,-12.356 -17.352,-12.354 z m 38.381,-56.26 -17.614,12.358 17.352,12.356 17.614,-12.356 z m 41.276,0 -17.354,12.358 17.354,12.356 17.612,-12.356 z"
+     transform="matrix(0.97,0,0,0.97,-363,-38)"
+     inkscape:connector-curvature="0" /></g></svg>

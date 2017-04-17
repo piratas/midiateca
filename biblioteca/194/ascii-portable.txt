@@ -1,0 +1,1710 @@
+
+Ago 04 14:56:26 *	A conversar em #piratas
+Ago 04 14:56:26 *	O t&#243;pico de #piratas &#233;: Pirate Party Brazil | #IUF2015 Internet Ungovernance Forum Brazil http://iuf.partidopirata.org/
+Ago 04 14:56:26 *	T&#243;pico #piratas por tjack (Mon Jul 13 19:18:05 2015)
+Ago 04 14:56:26 *	Canal #piratas url: http://partidopirata.org/bate-papo-irc/
+Ago 04 14:56:26 *	ChanServ estatuto operador canal a dez
+Ago 04 15:05:54 *	lfamorim (~lfamorim@partidopirata.org) entrou
+Ago 04 15:06:01 lfamorim:	\o
+Ago 04 15:06:02 lfamorim:	e ae
+Ago 04 15:53:51 dez:	bom?
+Ago 04 16:06:23 *	Michele (KiwiIRC@partidopirata.org) entrou
+Ago 04 16:19:44 *	lfamorim saiu (Ping timeout: 268 seconds)
+Ago 04 16:19:59 *	lfamorim (~lfamorim@partidopirata.org) entrou
+Ago 04 16:53:33 *	desci (webchat@partidopirata.org) entrou
+Ago 04 16:53:33 *	ChanServ estatuto operador canal a desci
+Ago 04 16:53:42 desci:	@tjack confirmou hoje?
+Ago 04 16:53:48 desci:	tjack:
+Ago 04 16:55:34 *	Michele (KiwiIRC@partidopirata.org) saiu
+Ago 04 17:12:11 *	lfamorim saiu (Ping timeout: 248 seconds)
+Ago 04 17:23:04 tjack:	desci, confirmei o qu&#234;?
+Ago 04 17:23:15 desci:	tua presen&#231;a no arm&#225;rio hoje
+Ago 04 17:23:39 tjack:	n&#227;o entendi a ironia
+Ago 04 17:23:41 desci:	mais especificamente, a minha
+Ago 04 17:23:50 desci:	pra participar da primeira reuni&#227;o da nova secretaria
+Ago 04 17:24:10 desci:	inclusive to tentando instalar debian numa vm no meu kali aqui mas acho que n&#227;o ta dando
+Ago 04 17:24:18 desci:	vou ter que usar um computador teu pra ir pro hangout
+Ago 04 17:24:26 tjack:	pare&#231;o ser t&#227;o ot&#225;rio, assim? acho que vou perder tempo com esses idiotas?
+Ago 04 17:24:35 tjack:	desci, s&#243; vir aqui
+Ago 04 17:25:32 desci:	o tempo &#233; meu, n&#227;o teu
+Ago 04 17:25:40 desci:	eu quero teu computador e tua internet, n&#227;o teu tempo
+Ago 04 17:25:42 tjack:	Nova Sercetaria = St&#225;lin, L&#234;nin, Trotski, e quem mais?
+Ago 04 17:25:53 desci:	Adolf da alemanha
+Ago 04 17:25:56 tjack:	desci, repito mais uma vez: &#233; s&#243; vir aqui
+Ago 04 17:26:04 tjack:	desci, o putinho deu as caras?
+Ago 04 17:29:49 *	lfamorim (~lfamorim@partidopirata.org) entrou
+Ago 04 18:02:12 *	desci saiu (Quit: Web client closed)
+Ago 04 18:23:28 *	icanolargv (~icanolarg@partidopirata.org) entrou
+Ago 04 18:55:43 *	server-go (KiwiIRC@partidopirata.org) entrou
+Ago 04 18:58:45 server-go:	register
+Ago 04 19:00:26 server-go:	REGISTER ******* *******@*********.***
+Ago 04 19:04:38 server-go:	Agora sim.... o acompanhamento da reuni&#227;o de hoje ser&#225; por aqui tb?
+Ago 04 19:13:11 server-go:	Algu&#233;m?
+Ago 04 19:19:21 *	desci (webchat@partidopirata.org) entrou
+Ago 04 19:19:21 *	ChanServ estatuto operador canal a desci
+Ago 04 19:20:39 desci:	terminei
+Ago 04 19:20:46 desci:	gurizada, escrevi um script pra irc
+Ago 04 19:20:57 desci:	pra se identificar com o nickserv mais r&#225;pido
+Ago 04 19:21:08 desci:	digita #!!
+Ago 04 19:21:18 desci:	e o servidor vai mascarar a senha
+Ago 04 19:21:20 desci:	assim:
+Ago 04 19:21:23 desci:	#!!
+Ago 04 19:21:25 desci:	********
+Ago 04 19:21:34 desci:	deu, to autenticado
+Ago 04 19:23:29 server-go:	bom... mas e o assunto daqui?
+Ago 04 19:23:46 desci:	a reuni&#227;o come&#231;a daqui a 2 horas e meia
+Ago 04 19:23:47 desci:	em tese
+Ago 04 19:23:54 server-go:	em tese pq?
+Ago 04 19:24:13 desci:	porque s&#243; tem como saber que horas a reuni&#227;o come&#231;a quando ela come&#231;ar
+Ago 04 19:24:16 desci:	n&#227;o somos brit&#226;nicos
+Ago 04 19:25:48 server-go:	kkkk nem eles n&#227;o s&#227;o kkkk
+Ago 04 19:26:23 tajack:	server-go, tem 2 que s&#227;o... nem tira os caras. ficam meio cabreros...
+Ago 04 19:29:43 icanolargv:	bastaria come&#231;ar a reuni&#227;o independente de quem j&#225; chegou, na pr&#243;xima quase ningu&#233;m se atrasaria
+Ago 04 19:30:21 icanolargv:	j&#225; usei essa estrat&#233;gia e a &#250;nica solicita&#231;&#227;o foi que a reuni&#227;o seguinte come&#231;asse as 23h (eu tinha marcado a primeira para 22h) :D
+Ago 04 19:31:22 tjack:	icanolargv, marcou reuni&#227;o dos 'piratas'?
+Ago 04 19:33:08 server-go:	acho q o icanolargv tem l&#225; sua raz&#227;o
+Ago 04 19:33:33 server-go:	ok @tjack... foi s&#243; uma descontra&#231;&#227;o... malz a&#237;
+Ago 04 19:33:54 tjack:	server-go, relaxa, estamos todos descontra&#237;dos.
+Ago 04 19:34:03 server-go:	mas bem, a pauta foi divulgada?
+Ago 04 19:37:16 server-go:	ufa, @tjack!
+Ago 04 19:38:17 desci:	a pauta &#233; objeto de discuss&#227;o, ent&#227;o n&#227;o
+Ago 04 19:38:24 desci:	mas tem propostas no loomio
+Ago 04 19:39:54 server-go:	ainda n&#227;o consegui a aceita&#231;&#227;o no loomio nacional, s&#243; no centro-oeste
+Ago 04 19:40:05 server-go:	ent&#227;o n&#227;o consegui ver nada
+Ago 04 19:41:41 server-go:	corre&#231;&#227;o, pelo menos entra eu t&#244; conseguindo...
+Ago 04 19:42:52 *	desci saiu (Ping timeout: 260 seconds)
+Ago 04 19:47:19 icanolargv:	n&#227;o do Piratas, quando eu era coordenador de uma rep&#250;blica universit&#225;ria
+Ago 04 19:47:51 icanolargv:	tamb&#233;m quando eu era coordenador do departamento onde trabalho
+Ago 04 19:48:01 icanolargv:	acho que se aplica a qualquer reuni&#227;o :D
+Ago 04 19:48:24 *	server-go saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 19:48:30 *	tjack saiu (Quit: &#161;Hasta!)
+Ago 04 19:51:20 *	desci (webchat@partidopirata.org) entrou
+Ago 04 19:51:20 *	ChanServ estatuto operador canal a desci
+Ago 04 19:54:41 *	rodrix (KiwiIRC@partidopirata.org) entrou
+Ago 04 20:04:09 desci:	tentando instalar o virtualbox na persist&#234;ncia do tails pra entrar nessa merda de hangout
+Ago 04 20:05:11 desci:	s&#243; que como &#233; que eu vou pegar o url do hangout sem entrar no feisse/telegram?
+Ago 04 20:20:46 *	tjack (~tjack@PirateParty/BR/Member) entrou
+Ago 04 20:20:46 *	ChanServ estatuto operador canal a tjack
+Ago 04 20:26:44 -ChanServ/#piratas-	tjack added rodrix to the access list (with role: VOP).
+Ago 04 20:26:44 *	ChanServ voice a rodrix
+Ago 04 20:33:02 *	icanolargv saiu (Ping timeout: 260 seconds)
+Ago 04 20:48:17 tjack:	#!!
+Ago 04 20:48:22 tjack:	*************
+Ago 04 20:48:33 *	icanolargv (~icanolarg@partidopirata.org) entrou
+Ago 04 20:48:44 tjack:	desci, registrado aqui tb! vlw...
+Ago 04 20:48:56 *	desci registro tjack aceito com suceso
+Ago 04 20:50:01 tjack:	desci, mas tu t&#225; usando SHA1, ou n&#227;o?
+Ago 04 20:50:22 desci:	que nada
+Ago 04 20:50:29 desci:	md5 num sqlite brabo
+Ago 04 20:50:34 desci:	s&#243; botei um bot de irc
+Ago 04 20:50:41 tjack:	bah, depois muda... :/
+Ago 04 20:50:54 desci:	mudo nada, j&#225; dei salt no hash da tua senha
+Ago 04 20:50:58 desci:	>:)
+Ago 04 20:51:09 tjack:	q?! que viagem...
+Ago 04 20:59:05 *	Okida (KiwiIRC@partidopirata.org) entrou
+Ago 04 20:59:15 Okida:	que horas e o  hangout ?
+Ago 04 21:00:47 desci:	&#192;s 22:00 BRT GMT -3
+Ago 04 21:00:48 desci:	em tese
+Ago 04 21:00:53 desci:	ou seja, em uma hora
+Ago 04 21:02:42 Okida:	vlw
+Ago 04 21:03:59 rodrix:	isso aqui me lembra tanto 2008
+Ago 04 21:04:14 rodrix:	e ai tjack
+Ago 04 21:04:36 tjack:	rodrix, dae meu v&#233;io!
+Ago 04 21:04:47 Okida:	pod cre
+Ago 04 21:04:48 tjack:	rodrix, minha cabe&#231;a parou em 2008, por a&#237;... ;-)
+Ago 04 21:04:53 desci:	2008 eu tava criando fake pra entrar no partido pirata
+Ago 04 21:04:54 desci:	e perdendo o caba&#231;o tamb&#233;m
+Ago 04 21:05:04 Okida:	epoca tbm do T7Ds
+Ago 04 21:05:09 tjack:	rodrix, esses dias tava falando que tu tinha me apresentando "Skrillex"...
+Ago 04 21:05:15 tjack:	rodrix, ;)
+Ago 04 21:05:59 tjack:	rodrix, como &#233; que t&#225; a&#237; o coletivo de Sampa?
+Ago 04 21:07:04 rodrix:	de vez em quando eu tomo umas cervejas. Procuro ir nos encontros do coletivo s&#243; quando &#233; no bar
+Ago 04 21:07:14 tjack:	Okida, tem o link do Hangout?!
+Ago 04 21:07:23 Okida:	Ainda nao
+Ago 04 21:07:41 tjack:	Okida, ningu&#233;m tem eu acho. :D
+Ago 04 21:07:52 Okida:	no face v&#227;o meter o link
+Ago 04 21:08:04 Okida:	relaxa na nave @tjack
+Ago 04 21:08:26 tjack:	Okida, puxa meu dedo?
+Ago 04 21:08:36 Okida:	https://www.facebook.com/events/1479816718998134/
+Ago 04 21:08:51 tjack:	Okida, entra a&#237; e lan&#231;a aqui depois, se n&#227;o for pedir muito...
+Ago 04 21:09:13 tjack:	Okida, n&#227;o entro no territ&#243;rio daquele mo&#231;o dalt&#244;nico...
+Ago 04 21:09:42 Okida:	como assim jovis?
+Ago 04 21:09:47 *	desci saiu (Ping timeout: 260 seconds)
+Ago 04 21:09:57 tjack:	Okida, n&#227;o entro no Fascistbook...
+Ago 04 21:10:03 Okida:	to ligado
+Ago 04 21:10:14 tjack:	Okida, isso a&#237;, jovem...
+Ago 04 21:10:35 Okida:	quando meter o link reporto aqui
+Ago 04 21:10:59 tjack:	rodrix, mas no bar &#233; quando n&#227;o rola nada.. (ao menos aqui no Imp&#233;rio Gaud&#233;rio era assim... uma lenga-lenga sem sentido...)
+Ago 04 21:11:24 tjack:	Okida, eu vou sentir, n&#227;o te preocupa... :*
+Ago 04 21:11:37 Okida:	vixi
+Ago 04 21:11:57 Okida:	calma contigo jovis
+Ago 04 21:12:06 tjack:	Okida, tem fobia de confederado?
+Ago 04 21:12:17 Okida:	hauhaua
+Ago 04 21:12:20 Okida:	jamais
+Ago 04 21:12:20 tjack:	;)
+Ago 04 21:13:38 *	desci (webchat@partidopirata.org) entrou
+Ago 04 21:13:38 *	ChanServ estatuto operador canal a desci
+Ago 04 21:13:52 *	icanolargv saiu (Ping timeout: 268 seconds)
+Ago 04 21:14:07 rodrix:	tjack da&#237; no bar eu n&#227;o preciso ficar preocupado se n&#227;o rola nada
+Ago 04 21:14:42 tjack:	rodrix, eu virei 'persona non grata' por aqui...
+Ago 04 21:15:29 desci:	porra, n'ao da pra entrar num hangout com alguma coisa que n'ao seja um caralho de conta da google?
+Ago 04 21:15:51 desci:	eu to de saco cheio de partido de feisse e gugou
+Ago 04 21:16:07 tjack:	desci, o Hangout &#233; coisa de pirata (vide Snowden)... :P~~~~~
+Ago 04 21:16:52 desci:	snowden nao sabe compilar um for
+Ago 04 21:17:16 desci:	o "vazamento" dele e' um print de um .ppt
+Ago 04 21:17:21 desci:	va pra puta que te pariu
+Ago 04 21:17:33 desci:	nunca ouviu falar em mht?
+Ago 04 21:17:45 tjack:	desci, o primo dele &#233; cunhado de um amigo do Putin...
+Ago 04 21:20:13 *	desci saiu (Quit: Web client closed)
+Ago 04 21:22:05 *	LAF (KiwiIRC@partidopirata.org) entrou
+Ago 04 21:22:07 *	Okida saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 21:22:09 tjack:	rodrix, e o que anda estudando?
+Ago 04 21:22:14 *	desci (webchat@partidopirata.org) entrou
+Ago 04 21:22:14 *	ChanServ estatuto operador canal a desci
+Ago 04 21:22:34 LAF:	Boa noite
+Ago 04 21:22:55 LAF:	Algu&#233;m sabe como posso participar ou assistir a reuni&#227;o que acontecer&#225; hoje?
+Ago 04 21:23:12 desci:	Quando o hangout for criado,
+Ago 04 21:23:14 tjack:	LAF, estamos desde &#224;s 20h nos perguntando isso...
+Ago 04 21:23:15 desci:	teremos um link
+Ago 04 21:23:28 LAF:	Ok
+Ago 04 21:23:31 desci:	e ai se tu tiver um navegador compativel e um plugin do google hangouts,
+Ago 04 21:23:34 desci:	tu consegue participar
+Ago 04 21:23:34 LAF:	V&#227;o divulgar no evento?
+Ago 04 21:23:39 desci:	provavelmente
+Ago 04 21:23:44 LAF:	Certo!
+Ago 04 21:23:47 LAF:	Obrigado!
+Ago 04 21:24:01 desci:	eu pedi pra alguem trazer o link pra ca
+Ago 04 21:24:12 desci:	mas nao tenho certeza se o pessoal consegue entrar no irc pra fazer isto
+Ago 04 21:24:18 desci:	no evento do feisse eu sei que eles conseguem
+Ago 04 21:24:32 desci:	tambem nao sei se eles conseguem botar pra gravar o hangout ao vivo no youtube
+Ago 04 21:24:43 desci:	se for a galera de minas gerais eles conseguem
+Ago 04 21:24:47 tjack:	desci, demora 1h, mas eles conseguem...
+Ago 04 21:24:54 LAF:	seria bem interessante se conseguissem
+Ago 04 21:25:06 tjack:	desci, o pessoal de MG 'grava s&#243; de cantinho...'
+Ago 04 21:26:39 desci:	bom
+Ago 04 21:26:43 desci:	eu vou gravar a reuniao
+Ago 04 21:26:57 desci:	com recordmydesktop
+Ago 04 21:27:05 tjack:	j&#225; coloquei a fita VHS em SP aqui...
+Ago 04 21:27:36 *	Mauricio (KiwiIRC@partidopirata.org) entrou
+Ago 04 21:41:33 *	LAF saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 21:48:20 *	KaNNoN (KiwiIRC@partidopirata.org) entrou
+Ago 04 21:48:21 *	ChanServ estatuto operador canal a KaNNoN
+Ago 04 21:48:50 KaNNoN:	Ol&#225; queridos.
+Ago 04 21:49:08 desci:	ola supreme hangout master
+Ago 04 21:49:12 KaNNoN:	at&#233; mate-couro ta aqui que canal animado
+Ago 04 21:49:12 desci:	quem vai criar o hangout?
+Ago 04 21:49:19 KaNNoN:	eu criei na minha conta pessoal
+Ago 04 21:49:25 desci:	e se criar, vai sair no youtube ao vivo?
+Ago 04 21:49:36 KaNNoN:	sim. t&#225; ao vivo aqui: https://plus.google.com/events/cf3sk6cl3g94jo0pvdj29jsbs94
+Ago 04 21:49:48 desci:	qual e o link do youtube?
+Ago 04 21:49:56 KaNNoN:	e aqui para entrar (eu acho): https://plus.google.com/hangouts/_/hoaevent/AP36tYdJAADfqxAo-pm7MzBChnOO1tHZ_mcIDn17I5s3wmsUmWRDFg?hl=pt-BR&authuser=0
+Ago 04 21:50:05 KaNNoN:	link do youtube ta ali
+Ago 04 21:50:23 *	KaNNoN voice a rodrix
+Ago 04 21:50:28 *	KaNNoN voice a Mauricio
+Ago 04 21:50:47 KaNNoN:	Lucas Fernando Amorim ... quem &#233; esse?
+Ago 04 21:50:48 desci:	te amo
+Ago 04 21:51:06 desci:	vou la botar minha camiseta na cara
+Ago 04 21:51:56 KaNNoN:	Pad criei agora: https://pad.okfn.org/p/reuniao-4-08
+Ago 04 21:52:15 Mauricio:	Kannon t&#225; funcionando o hangout mesmo? N&#227;o abriu aqui
+Ago 04 21:52:22 *	tjack saiu (Ping timeout: 260 seconds)
+Ago 04 21:52:27 Mauricio:	Ali&#225;s, boa noite galera!
+Ago 04 21:52:50 KaNNoN:	como assim?
+Ago 04 21:53:15 KaNNoN:	coloquei os dois links a&#237;.
+Ago 04 21:53:27 KaNNoN:	Um &#233; para participar o outro para assistir
+Ago 04 21:53:43 Mauricio:	Tentando aqui de novo
+Ago 04 21:53:47 Mauricio:	Sim eu entendi rs
+Ago 04 21:55:23 Mauricio:	Caraca nenhum dos dois abriram aqui
+Ago 04 21:56:03 *	hrtttt (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:02:42 *	tjack (~tjack@PirateParty/BR/Member) entrou
+Ago 04 22:02:42 *	ChanServ estatuto operador canal a tjack
+Ago 04 22:03:44 KaNNoN:	Pq n&#227;o abrem? O que d&#225;?
+Ago 04 22:03:48 *	ayres (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:04:06 *	Michele (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:04:17 Mauricio:	Tenta carregar e nada... p&#225;gina em branco sem msg de erro nem nada
+Ago 04 22:04:30 tjack:	&#233; a chuva...
+Ago 04 22:04:35 *	LAF (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:04:42 *	hello (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:04:48 *	KKDragonLord (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:04:54 *	dfujise (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:05:00 *	Ahasverus (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:05:02 *	bla (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:05:06 *	Ary (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:05:14 *	ayres saiu (Client Quit)
+Ago 04 22:05:24 Ahasverus:	lotado
+Ago 04 22:05:29 tjack:	massa
+Ago 04 22:05:38 Ary:	Opa
+Ago 04 22:05:45 dez:	eita
+Ago 04 22:05:48 dez:	lotado
+Ago 04 22:05:49 tjack:	fazer uma desreuni&#227;o pirata aqui no IRC
+Ago 04 22:05:50 hello:	world
+Ago 04 22:05:52 Ary:	Alguma delibera&#231;&#227;o?
+Ago 04 22:05:53 tjack:	dez, massa, n&#227;o?
+Ago 04 22:05:59 *	ayres_eduardosi (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:06:01 *	KKDragonLord saiu (Client Quit)
+Ago 04 22:06:01 *	ghostdog (~ghostdog@partidopirata.org) entrou
+Ago 04 22:06:15 desci:	tem que logar na conta da google
+Ago 04 22:06:18 *	ghostdog (~ghostdog@partidopirata.org) saiu
+Ago 04 22:06:28 desci:	e a[i abrir o url no mesmo navegador onde ta logado a conta da goolge
+Ago 04 22:06:44 desci:	so ta eu e o kannon la porra
+Ago 04 22:06:45 *	Ary saiu (Client Quit)
+Ago 04 22:06:49 *	Daniel_Fraga (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:07:18 Mauricio:	T&#244; ligado... j&#225; t&#244; logado na conta do google desde a hora em que entrei aqui
+Ago 04 22:07:18 tjack:	Daniel_Fraga, sou teu f&#227;. Tu &#233; o cara que p&#245;e medo na Civil, n&#233;?
+Ago 04 22:07:24 *	K0mun4 (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:07:36 *	kinn (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:07:44 *	edu (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:07:55 *	Thiago (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:08:08 *	cipoh (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:08:21 *	Ana (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:08:22 hrtttt:	Pessoal, voc&#234;s ir&#227;o disponibilizar algum tipo de relat&#243;rio depois? Pois, infelizmente vou deitar. Amanh&#227; tenho aula cedo :/
+Ago 04 22:08:43 Daniel_Fraga:	sim Tjack, sou contra o estado e todo ruim que por ele &#233; gerado.
+Ago 04 22:08:47 *	Jezah (~ghostdog@partidopirata.org) entrou
+Ago 04 22:08:50 <K0mun4>	boa noite amigos. Um salve de Bel'em do Par'a
+Ago 04 22:09:02 Jezah:	Ahoy!
+Ago 04 22:09:08 KaNNoN:	https://pad.okfn.org/p/reuniao-4-08
+Ago 04 22:09:09 dfujise:	arrois
+Ago 04 22:09:14 tjack:	Daniel_Fraga, massa! tu &#233; foda. sou teu f&#227; mesmo. aquele v&#237;deo botando medo no Civil &#233; massa.
+Ago 04 22:09:16 *	NewJames (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:09:26 Thiago:	ahoy
+Ago 04 22:09:40 Ahasverus:	Relatorios ficam no PAD< todos podem contribuir la.
+Ago 04 22:09:40 *	Wilson (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:09:44 NewJames:	Boa noite
+Ago 04 22:09:45 *	Thiago (KiwiIRC@partidopirata.org) saiu
+Ago 04 22:09:51 tjack:	&#161;Buenas!
+Ago 04 22:09:55 Daniel_Fraga:	tenho uma pergunta: O Paritdo Pirata apoia o estado ?
+Ago 04 22:10:02 *	ARY (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:10:04 Ahasverus:	hrtttthttps://pad.okfn.org/p/reuniao-4-08
+Ago 04 22:10:06 *	ARY saiu (Client Quit)
+Ago 04 22:10:09 Ahasverus:	hrtttt: https://pad.okfn.org/p/reuniao-4-08
+Ago 04 22:10:09 *	Mauricio (KiwiIRC@partidopirata.org) saiu
+Ago 04 22:10:13 hrtttt:	Ashaverus show!! Brigado
+Ago 04 22:10:26 hrtttt:	Bom debate ai galera. Abra&#231;o
+Ago 04 22:10:31 *	allisonvoll (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:10:32 tjack:	Daniel_Fraga, o Estado &#233; inimigo comum...
+Ago 04 22:10:34 *	Ary (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:10:34 <K0mun4>	qual estado?
+Ago 04 22:10:45 <K0mun4>	nem estado nem empresas
+Ago 04 22:10:47 Ahasverus:	eu sou anarquista,
+Ago 04 22:10:48 Wilson:	estado liquido, solido ou gasoso?
+Ago 04 22:10:54 Ahasverus:	dentro dos piratas, tem piratas de todos os tipos.
+Ago 04 22:11:01 Ahasverus:	o atual programa tem defesas do 'estado'.
+Ago 04 22:11:02 Jezah:	n&#227;o sei se o partido tem uma opini&#227;o oficial sobre isso
+Ago 04 22:11:18 Jezah:	mas eu to com o komuna, nem estado nem empresas
+Ago 04 22:11:20 <K0mun4>	basta acessar o site do partido e ler os documentos
+Ago 04 22:11:23 Wilson:	acho que a ideia eh hackear o sistema
+Ago 04 22:11:24 Daniel_Fraga:	mas qual anarquia ?
+Ago 04 22:11:33 Daniel_Fraga:	https://scontent-mia1-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-
+Ago 04 22:11:33 Daniel_Fraga:	9/11694970_143716779293331_9222188677868193929_n.jpg?
+Ago 04 22:11:33 Daniel_Fraga:	oh=97fc8af4675638ee9eabb3638b134ad4&oe=561CD9EC
+Ago 04 22:11:34 Wilson:	e isso eh independente de estado ou nao
+Ago 04 22:11:34 <K0mun4>	s&#243; existe uma anarquia
+Ago 04 22:11:37 tjack:	Daniel_Fraga, eu sou pirata. S&#243; isso...
+Ago 04 22:11:39 <K0mun4>	classica
+Ago 04 22:11:42 Ahasverus:	o coletivo do sudeste, pretende lan&#231;ar um manifesto libertario
+Ago 04 22:11:43 Daniel_Fraga:	https://scontent-mia1-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/11694970_143716779293331_9222188677868193929_n.jpg?oh=97fc8af4675638ee9eabb3638b134ad4&oe=561CD9EC
+Ago 04 22:11:45 <K0mun4>	o resto &#233; neoliberalismo
+Ago 04 22:11:46 Ahasverus:	educa&#231;&#227;o libertaria etc.
+Ago 04 22:11:46 allisonvoll:	ja comecou a transmissao?
+Ago 04 22:11:49 Wilson:	pois mesmo que nao houvesse estado haveria sistema
+Ago 04 22:11:53 *	aenima (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:11:59 Jezah:	nah, existem um monte de abordagens pra anarquia
+Ago 04 22:12:06 Ahasverus:	https://pad.okfn.org/p/perspectivaslibertarias
+Ago 04 22:12:10 Ahasverus:	https://pad.okfn.org/p/Ata_Encontro_Sudeste_PIRATAS
+Ago 04 22:12:25 *	edu saiu (Client Quit)
+Ago 04 22:12:29 Jezah:	eu particularmente curto mutualismo e umas paradas de concelhismo (que n&#227;o &#233; exatamente anarquista, mas &#233; compat&#237;vel)
+Ago 04 22:12:33 <K0mun4>	n&#227;o confundir neoliberais com anarquistas
+Ago 04 22:12:41 Daniel_Fraga:	neoliberais ?
+Ago 04 22:12:45 Daniel_Fraga:	isso existe ainda ?
+Ago 04 22:13:00 Daniel_Fraga:	j&#225; vi que esse paritod &#233; uma merda, sat&#233;lite do PT
+Ago 04 22:13:03 <K0mun4>	kkkk
+Ago 04 22:13:03 Daniel_Fraga:	tchau
+Ago 04 22:13:04 Ahasverus:	come&#231;ou o left libertarianism x right libertarianism
+Ago 04 22:13:10 *	Daniel_Fraga saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 22:13:16 <K0mun4>	j&#225; foi tarde
+Ago 04 22:13:17 *	dfujise saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 22:13:42 tjack:	... nem pra discutir... ok... :'(
+Ago 04 22:13:47 *	lucasdcarvalho (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:13:48 <K0mun4>	e sobre a reuni&#227;o nacional?
+Ago 04 22:13:55 *	cipoh saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 22:13:55 aenima:	pois &#233;
+Ago 04 22:13:59 Ahasverus:	estamos esperando abrir o hangout
+Ago 04 22:14:02 Ahasverus:	com a 'coordena&#231;&#227;o nacional'
+Ago 04 22:14:02 aenima:	pensei que seria aberta
+Ago 04 22:14:04 aenima:	ahh ok
+Ago 04 22:14:07 aenima:	=)
+Ago 04 22:14:07 Ahasverus:	&#233; uma reuni&#227;o de emergencia
+Ago 04 22:14:16 Ahasverus:	estamos sem secretarios gerais etc
+Ago 04 22:14:31 Ahasverus:	mas tem outros temas tambem..
+Ago 04 22:15:30 *	Ary saiu (Client Quit)
+Ago 04 22:15:35 *	tinoco (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:15:46 *	Ary (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:15:49 ayres_eduardosi:	gente era o daniel fraga mesmo ou era fake ?
+Ago 04 22:15:54 hrtttt:	Ae, voc&#234;s querem que se identifique?
+Ago 04 22:15:54 <K0mun4>	Venha forte que eu sou do norte
+Ago 04 22:15:56 hrtttt:	por mim &#233; de boa
+Ago 04 22:16:12 rodrix:	assista aqui: https://plus.google.com/events/cf3sk6cl3g94jo0pvdj29jsbs94
+Ago 04 22:16:17 tjack:	ayres_eduardosi, &#243;bvio que era fake... n&#227;o iria falar essa merda que falou, sen&#227;o ele &#233; um imbecil...
+Ago 04 22:16:22 *	Sunnie (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:17:04 ayres_eduardosi:	o dfraga &#233; ancap, tipo falar que um ancap &#233; um neoliberal realmente deixaria ele puto
+Ago 04 22:17:19 tjack:	ayres_eduardosi, mas era fake. ele n&#227;o &#233; imbecil.
+Ago 04 22:17:50 <K0mun4>	ancap quer pagar de anarquista
+Ago 04 22:17:57 desci:	ATENCAO VOU COMECAR A GRAVAR AGORA
+Ago 04 22:17:59 <K0mun4>	libertario kkk
+Ago 04 22:19:00 *	Ary saiu (Client Quit)
+Ago 04 22:19:10 *	Ary (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:19:16 *	corvolino (~corvinho@PirateParty/BR/Member) entrou
+Ago 04 22:19:17 *	ChanServ voice a corvolino
+Ago 04 22:19:37 tjack:	corvolino, seu lindo! n&#227;o t&#225; no Hangout?!
+Ago 04 22:19:53 corvolino:	n&#227;o
+Ago 04 22:19:55 hrtttt:	Ae todo mundo ta ouvindo o Hangout?
+Ago 04 22:19:56 corvolino:	hangout de que?
+Ago 04 22:20:01 tjack:	[22:17:59] rodrix: assista aqui: https://plus.google.com/events/cf3sk6cl3g94jo0pvdj29jsbs94
+Ago 04 22:20:04 *	LAF saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 22:20:09 *	MauricioCoeli (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:20:10 tjack:	hrtttt, se liga a&#237; no link...
+Ago 04 22:20:21 hrtttt:	to ouvindo vcs ja velho
+Ago 04 22:20:39 hrtttt:	entao, vai ser mais questoes de organizacao, ou vao debater outros temas?
+Ago 04 22:20:41 <K0mun4>	legal come&#231;ou
+Ago 04 22:20:43 Ahasverus:	Participar pelo IRC: http://partidopirata.org/bate-papo-irc/
+Ago 04 22:20:43 Ahasverus:	Link para assistir ao Hangout: https://plus.google.com/events/cf3sk6cl3g94jo0pvdj29jsbs94
+Ago 04 22:20:43 Ahasverus:	Link participar do Hangout: https://plus.google.com/&#8230;/AP36tYdJAADfqxAo-pm7MzBChnOO1tHZ_&#8230;
+Ago 04 22:20:44 Ahasverus:	Pad: https://pad.okfn.org/p/reuniao-4-08
+Ago 04 22:20:50 tjack:	hrtttt, nem t&#244; l&#225;... n&#227;o fa&#231;o reuni&#245;es...
+Ago 04 22:20:54 *	LAF (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:20:55 hrtttt:	bt fe
+Ago 04 22:21:18 corvolino:	estou vendo
+Ago 04 22:21:23 corvolino:	e esse tanto de bot aqui
+Ago 04 22:21:23 *	Ary saiu (Client Quit)
+Ago 04 22:21:33 <K0mun4>	fala aenima kkk
+Ago 04 22:21:43 desci:	Alguem ainda nao conseguiu assistir
+Ago 04 22:21:49 desci:	ou participar do hangout?
+Ago 04 22:22:05 aenima:	fale K0mun4
+Ago 04 22:22:14 MauricioCoeli:	N&#227;o consigo acessar o hangout nem fudendo
+Ago 04 22:22:28 corvolino:	estou vendo normal
+Ago 04 22:22:30 Jezah:	aqui t&#225; indo
+Ago 04 22:22:31 corvolino:	participando n&#227;o
+Ago 04 22:22:33 *	K0mun4 saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 22:22:40 MauricioCoeli:	A Google t&#225; boicotando o partido j&#225;
+Ago 04 22:23:25 *	tjack alterou o t&#243;pico para: REUNI&#195;O DA SECRETARIA NACIONAL AGORA! | IRC: http://partidopirata.org/bate-papo-irc/ | Hangout:[ver] https://plus.google.com/events/cf3sk6cl3g94jo0pvdj29jsbs94 | PAD: https://pad.okfn.org/p/reuniao-4-08
+Ago 04 22:25:17 *	PabloNun (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:25:24 PabloNun:	o/
+Ago 04 22:25:39 Ahasverus:	PabloNun: fala PIRATA
+Ago 04 22:25:42 *	LAF saiu (Client Quit)
+Ago 04 22:25:57 *	LAF (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:26:12 PabloNun:	Am&#233;m, tem gente dessa vez!
+Ago 04 22:26:12 *	desci saiu (Ping timeout: 260 seconds)
+Ago 04 22:26:28 Ahasverus:	muita gente.
+Ago 04 22:26:47 rodrix:	https://www.youtube.com/watch?v=eGZCfJqMc3Q
+Ago 04 22:27:21 aenima:	senhores ...
+Ago 04 22:27:27 aenima:	digam de que estado vcs s&#227;o
+Ago 04 22:27:32 PabloNun:	BA
+Ago 04 22:27:32 aenima:	sou daqui do Par&#225;
+Ago 04 22:27:35 Ahasverus:	bahia, salvador
+Ago 04 22:27:38 tjack:	aenima, infelizmente do RS
+Ago 04 22:27:48 LAF:	RS
+Ago 04 22:27:55 ayres_eduardosi:	RJ
+Ago 04 22:28:31 MauricioCoeli:	MG
+Ago 04 22:28:52 *	Felco (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:29:01 kinn:	BA
+Ago 04 22:29:16 hrtttt:	ES
+Ago 04 22:29:44 *	desci (webchat@partidopirata.org) entrou
+Ago 04 22:29:44 *	ChanServ estatuto operador canal a desci
+Ago 04 22:29:45 Ahasverus:	kinn: de onde na bahia
+Ago 04 22:29:52 KaNNoN:	desci cad&#234; voc&#234; meu filho?
+Ago 04 22:29:59 desci:	manda o link do pad
+Ago 04 22:30:07 *	guilhermebr (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:30:14 dez:	mg
+Ago 04 22:30:16 desci:	j&#225; achei
+Ago 04 22:30:17 tjack:	PAD: https://pad.okfn.org/p/reuniao-4-08
+Ago 04 22:30:20 desci:	ta na descricao o canal
+Ago 04 22:30:33 tjack:	desci, &#233; bom tomar os rem&#233;dios antes dos compromissos...
+Ago 04 22:30:44 Michele:	SP
+Ago 04 22:30:45 desci:	meu remedio &#233; o compromisso
+Ago 04 22:30:50 PabloNun:	Salvador aqui
+Ago 04 22:30:50 dez:	:D
+Ago 04 22:30:51 Ahasverus:	Vulc&#227;o: https://pad.okfn.org/p/reuniao-4-08
+Ago 04 22:31:37 rodrix:	N&#227;o daria para chamar ela de volta j&#225; que v&#227;o escolher algu&#233;m para fazer justamente o que ela queria: s&#243; papelada?
+Ago 04 22:31:43 dez:	galera podia lurkea nesse irc mais (fora do dia da reuniao)
+Ago 04 22:31:55 rodrix:	https://www.youtube.com/watch?v=eGZCfJqMc3Q
+Ago 04 22:32:02 PabloNun:	Ela saiu, mas n&#227;o foi s&#243; por isso
+Ago 04 22:32:12 PabloNun:	Foi s&#243; a &#250;ltima gota
+Ago 04 22:32:24 tinoco:	RJ, s&#243; que Montevideu, Uruguay P-)
+Ago 04 22:32:27 tjack:	rodrix, boa pergunta... mais uma vez vai continuar essa burrocracia...
+Ago 04 22:32:42 *	Felco saiu (Client Quit)
+Ago 04 22:33:02 aenima:	&#233; um mal necess&#225;rio
+Ago 04 22:33:10 aenima:	sempre ter&#225; papelada
+Ago 04 22:33:25 tjack:	:P~~
+Ago 04 22:33:26 dez:	push to talk
+Ago 04 22:33:27 *	Ana saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 22:33:30 dez:	KaNNoN, 
+Ago 04 22:33:46 rodrix:	nem precisa, s&#243; ele dar mute no microfone
+Ago 04 22:33:55 dez:	eh
+Ago 04 22:33:56 tjack:	rodrix, n&#227;o adianta...
+Ago 04 22:34:05 dez:	e desmutar
+Ago 04 22:34:06 *	kkobold (~kkobold@partidopirata.org) entrou
+Ago 04 22:34:08 dez:	qdo falar
+Ago 04 22:34:12 *	tjack saiu (Quit: &#161;Hasta!)
+Ago 04 22:34:17 kkobold:	o/
+Ago 04 22:35:05 *	tjack (~tjack@PirateParty/BR/Member) entrou
+Ago 04 22:35:05 *	ChanServ estatuto operador canal a tjack
+Ago 04 22:36:05 dez:	\o
+Ago 04 22:36:43 rodrix:	Art. 49. A Coordenadoria Nacional &#233; o &#243;rg&#227;o respons&#225;vel por:
+Ago 04 22:36:46 *	ayres_eduardosi saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 22:37:04 rodrix:	XI &#8211; Indicar para provimento tempor&#225;rio de cargo vago em qualquer &#243;rg&#227;o da estrutura administrativa permanente nacional;
+Ago 04 22:37:18 rodrix:	http://partidopirata.org/documentos/estatuto/
+Ago 04 22:37:48 tjack:	rodrix, isso &#233; mais do mesmo... ningu&#233;m vai falar nada...
+Ago 04 22:38:49 rodrix:	o que est&#225; escrito no estatuto de 2014 &#233; que a coordenadoria, &#233; quem indicaria o secret&#225;rio geral substituto
+Ago 04 22:39:02 *	kkobold saiu (Ping timeout: 260 seconds)
+Ago 04 22:41:02 rodrix:	quando indicarem o substituto creio que tem que fazer essa mesma comunica&#231;&#227;o, agora para o tse, n&#227;o &#233;?
+Ago 04 22:41:54 Sunnie:	Caso ainda n&#227;o tenha havido uma nova elei&#231;&#227;o, em uma nova assembleia nacional, sim
+Ago 04 22:42:18 Sunnie:	Por&#233;m dificilmente vai haver alguma movimenta&#231;&#227;o burocr&#225;tica at&#233; maio, que &#233; quando ser&#225; a pr&#243;xima assembleia
+Ago 04 22:42:24 *	Ary (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:42:37 Sunnie:	&#201; mais para o caso de haver uma pessoa CASO seja necess&#225;rio assinar algum documento, procura&#231;&#227;o, etc
+Ago 04 22:44:55 *	LAF saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 22:45:36 kinn:	ops fiquei away - salvador
+Ago 04 22:45:54 Ahasverus:	kinn: certo
+Ago 04 22:45:58 *	LAF (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:46:01 desci:	alguem nao ta conseguindo ver a reuniao?
+Ago 04 22:46:08 MauricioCoeli:	Galdino, por isso a ideia do colegiado...
+Ago 04 22:46:12 desci:	ainda cabe uma pessoa
+Ago 04 22:46:26 tjack:	eu t&#244; ouvindo um gaguejamento incessante...
+Ago 04 22:46:32 kinn:	ouvindo normal
+Ago 04 22:46:33 *	frater (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:46:54 MauricioCoeli:	Concordo com o Kannon, o Daniel foca nisso e outras atribui&#231;&#245;es s&#227;o divididas entre outras pessoas
+Ago 04 22:47:25 *	galdino (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:47:39 tjack:	[22:40:36] rodrix: o que est&#225; escrito no estatuto de 2014 &#233; que a coordenadoria, &#233; quem indicaria o secret&#225;rio geral substituto
+Ago 04 22:47:40 tjack:	n&#227;o?
+Ago 04 22:48:26 KaNNoN:	quando ele parar de falar me avisem
+Ago 04 22:48:28 KaNNoN:	hauhuahauhauhuah
+Ago 04 22:48:30 galdino:	fala rapeize
+Ago 04 22:48:49 MauricioCoeli:	Tjakc, pelo novo estatudo a Coordena&#231;&#227;o que indica ocupantes para cargos em vac&#226;ncia
+Ago 04 22:48:54 galdino:	que que tao falando cmg ai
+Ago 04 22:49:15 galdino:	pelo estatuto velho tbm
+Ago 04 22:49:22 desci:	MauricioCoeli: fala ai
+Ago 04 22:49:50 MauricioCoeli:	Ahoy! Quem &#233; vc 'desci'?
+Ago 04 22:50:04 PabloNun:	Desci Gon&#231;alves
+Ago 04 22:50:15 galdino:	mauricio agente do governo cuidado hein
+Ago 04 22:50:16 galdino:	kkkk
+Ago 04 22:50:39 desci:	eu fiz o galdino vir aqui, pode falar com ele agora MauricioCoeli
+Ago 04 22:50:45 MauricioCoeli:	Kkkkk qual &#233; Galdino?
+Ago 04 22:50:46 *	LAF saiu (Client Quit)
+Ago 04 22:50:52 ->MauricioCoeli<-	iuri guilherme
+Ago 04 22:50:56 MauricioCoeli:	Ah sim valeu
+Ago 04 22:50:57 Jezah:	acho que o galdino &#233; o galdino
+Ago 04 22:50:58 *	LAF (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:51:14 galdino:	A=A
+Ago 04 22:51:28 MauricioCoeli:	o.O
+Ago 04 22:51:32 dez:	A!=A
+Ago 04 22:51:48 Michele:	Olha, eu quero trabalhar e estou disposta a trabalhar, se vcs forem criar grupos de trabalho eu quero ajudar
+Ago 04 22:52:21 Michele:	Estou me colocando a disposi&#231;&#227;o.
+Ago 04 22:52:37 *	frater saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 22:52:40 *	guilhermebr saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 22:52:58 desci:	Michele tu ta no loomio "oficial" j&#225;?
+Ago 04 22:53:10 *	DanPrazeres (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:53:14 MauricioCoeli:	A Coordena&#231;&#227;o pode mapear isso nos Coletivos Estaduais, e dai levantam-se poss&#237;veis GT a serem 'formalizados'
+Ago 04 22:53:20 Michele:	Estou no Loomio sim
+Ago 04 22:53:38 *	KKDragonLord (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:53:41 MauricioCoeli:	E ver a capacidade destes em trabalahr para al&#233;m da esfera estadual e contribuir para algo nacional
+Ago 04 22:53:54 galdino:	no sudeste ou no nacional?
+Ago 04 22:54:02 Michele:	Sudoeste
+Ago 04 22:54:03 galdino:	no nacional tem topico la nao lembro qual
+Ago 04 22:54:05 *	Ary saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 22:54:13 MauricioCoeli:	Cada coordena&#231;&#227;o faz na sua regi&#227;o
+Ago 04 22:54:30 *	kkobold (~kkobold@partidopirata.org) entrou
+Ago 04 22:54:32 MauricioCoeli:	Sim, pela nacional tem alguns GT's previstos
+Ago 04 22:54:49 galdino:	vc pode contribuir com a coordenacao regional acho
+Ago 04 22:55:03 MauricioCoeli:	Claro!
+Ago 04 22:55:16 kkobold:	o/
+Ago 04 22:55:35 MauricioCoeli:	A ideia &#233; todo mundo ajudar como puder, e os coordenadores s&#227;o figuras de refer&#234;ncia
+Ago 04 22:56:25 *	Ary (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:57:46 MauricioCoeli:	Contem comigo, j&#225; t&#244; como tesoureiro de MG mesmo...
+Ago 04 22:57:55 desci:	atualizei o pad
+Ago 04 22:58:00 desci:	com a proposta que eu dei
+Ago 04 22:58:31 hrtttt:	sou jurista e estou disposto a ajudar.
+Ago 04 22:58:46 *	amaivsimau (KiwiIRC@partidopirata.org) entrou
+Ago 04 22:58:56 *	amaivsimau saiu (Client Quit)
+Ago 04 22:59:10 KaNNoN:	vou expulsar o ivan ok?
+Ago 04 22:59:11 *	Ary saiu (Client Quit)
+Ago 04 22:59:17 KaNNoN:	dar espa&#231;o para cris
+Ago 04 22:59:24 desci:	o ivan est&#225; aqui?
+Ago 04 22:59:31 dez:	hangout
+Ago 04 22:59:33 tjack:	KaNNoN, Cris Maciel?
+Ago 04 22:59:33 desci:	deve estar, ele tem o lnk do hangout
+Ago 04 22:59:47 desci:	merda de hangout, vamos pro mumble gurizada
+Ago 04 23:00:06 KaNNoN:	expulsei Ivan, desculpe dar espa&#231;o para coordenadora.
+Ago 04 23:00:28 dez:	em mg a gente ta usano mumble
+Ago 04 23:00:30 PabloNun:	Acho mais &#233; que falta objetividade
+Ago 04 23:00:44 tjack:	PabloNun, +1
+Ago 04 23:00:49 *	Ary (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:00:51 *	deftones (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:01:12 tjack:	"Merda" &#233; estrat&#233;gico?!
+Ago 04 23:01:48 desci:	gtc tinha que se desmembrar
+Ago 04 23:02:11 PabloNun:	At&#233; hoje eu n&#227;o entendo o GTC, mas oh well...
+Ago 04 23:02:12 tjack:	Wilson, n&#227;o, tu s&#243; t&#225; no blah, blah, blah...
+Ago 04 23:02:46 corvolino:	iuri est&#225; quieto, que estranho.
+Ago 04 23:02:52 *	hrtttt (KiwiIRC@partidopirata.org) saiu
+Ago 04 23:02:55 desci:	gtc-fanpage; gtc-emails;
+Ago 04 23:03:07 desci:	gtc-loomio
+Ago 04 23:03:30 *	du (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:03:41 galdino:	minha ideia eh desmembrar o gtc em varios boards no trello
+Ago 04 23:04:05 tjack:	Thiago, e quem vai decidir isso?
+Ago 04 23:04:08 desci:	eu abro o board fora do trello
+Ago 04 23:04:14 galdino:	isso ta na lista de coisa pra fazer mas antes de tudo preciso resolver coisas com a secretaria q nao existe
+Ago 04 23:05:08 tjack:	Acessor vai "fiscalizar"?
+Ago 04 23:05:17 tjack:	Assessor*...
+Ago 04 23:05:25 *	KaNNoN voice a galdino
+Ago 04 23:05:29 galdino:	eu nao entendo nada do que ngm fala neste hangout
+Ago 04 23:05:31 hello:	mais transpar&#234;ncia no partido
+Ago 04 23:05:33 *	KaNNoN voice a Sunnie
+Ago 04 23:05:45 tjack:	galdino, somos dois.
+Ago 04 23:05:46 desci:	olha a&#237; tjack o que tu fez
+Ago 04 23:05:50 desci:	agora todo mundo &#233; op do canal
+Ago 04 23:06:28 tjack:	desci, e da&#237;? relaxa...
+Ago 04 23:06:42 tjack:	Cris!
+Ago 04 23:07:00 tjack:	AT&#201; QUE ENFIM!
+Ago 04 23:07:07 tjack:	[22:40:36] rodrix: o que est&#225; escrito no estatuto de 2014 &#233; que a coordenadoria, &#233; quem indicaria o secret&#225;rio geral substituto
+Ago 04 23:07:11 KaNNoN:	Temos coordenador, viu?
+Ago 04 23:07:19 KaNNoN:	GTC, GTJ, Coordenadora
+Ago 04 23:07:29 tjack:	KaNNoN, ela quis dizer secretaria....
+Ago 04 23:07:46 *	allisonvoll saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 23:08:29 Michele:	Sim, mapear e expor a todos quais s&#227;o os trabalhos que precisam ser feitos, fica mais f&#225;cil pra quem quer ajudar
+Ago 04 23:08:39 tjack:	mas a&#237; querem trancar tudo num trello....
+Ago 04 23:08:54 PabloNun:	Concordo
+Ago 04 23:08:57 MauricioCoeli:	#Fato... falou tudo
+Ago 04 23:09:03 galdino:	trello &#233; pra organizar o trabalho
+Ago 04 23:09:09 *	amaivsimau (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:09:14 galdino:	nao vo continuar no gtc organizando coisa no facebook nao
+Ago 04 23:09:17 *	Ary saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 23:09:20 galdino:	&#233; horrivel
+Ago 04 23:09:44 tjack:	galdino, digo que o trello n&#227;o tem transpar&#234;ncia...
+Ago 04 23:09:56 galdino:	uai, s&#243; olhar la
+Ago 04 23:10:03 galdino:	entra e olha
+Ago 04 23:10:26 PabloNun:	Tem que ter a assembleia para a vota&#231;&#227;o
+Ago 04 23:10:37 galdino:	acho que nao rola ficar 100% publico
+Ago 04 23:10:44 Sunnie:	N&#227;o precisa ser trello, trello &#233; uma ferramenta, deve ter outras formas
+Ago 04 23:10:57 MauricioCoeli:	Quem assumir agora assume com as compet&#234;ncias que est&#227;o definidas no Estatuto at&#233; a pr&#243;xima ANAPIRATA se ele mudar
+Ago 04 23:11:53 galdino:	nao tem sentido em deixar publico todo o processo de producao de material no gtc
+Ago 04 23:12:07 galdino:	pq o material produzido ali vai justamente ser publicado
+Ago 04 23:12:13 Sunnie:	N&#227;o
+Ago 04 23:12:20 Sunnie:	Acho que estamos falando de assuntos diferentes o.O
+Ago 04 23:12:27 Ahasverus:	discordo do 'galdino'
+Ago 04 23:12:33 PabloNun:	Precisamos mesmo &#233; de uma ajuda na organiza&#231;&#227;o
+Ago 04 23:12:34 Sunnie:	Trello &#233; pra organiza&#231;&#227;o de trabalho em geral, quadro de tarefas
+Ago 04 23:12:43 galdino:	sim, tava respondendo o puppo
+Ago 04 23:12:57 KaNNoN:	GTC tem acesso e-mail, twitter, facebook, site
+Ago 04 23:13:03 tjack:	galdino, yep.
+Ago 04 23:13:09 KaNNoN:	onde o GTC se organiza?
+Ago 04 23:13:21 Ahasverus:	n&#227;o acho que o GTC deva ser necessariamente 'usuario de midias sociais'
+Ago 04 23:13:24 galdino:	o trello foi o melhor que ja usamos, essa &#233; a verdade. n&#243;s &#233; que nao soubemos usar
+Ago 04 23:13:28 Ahasverus:	gtc &#233; produ&#231;&#227;o de conteudo e trabalha pro partido
+Ago 04 23:13:30 desci:	o gtc insurgente se organiza no irc
+Ago 04 23:13:33 desci:	aqui neste mesmo canal
+Ago 04 23:13:38 tjack:	KaNNoN, disso que eu falo.... mas... enfim. vai continuar uma panelinha e a 'quarentena' no Loomio...
+Ago 04 23:13:39 desci:	quando voces n&#227;o est&#227;o
+Ago 04 23:13:47 Ahasverus:	quem opera as midias sociais , podem ser qualquer pessoa que fica 23h
+Ago 04 23:13:50 Ahasverus:	ele s&#243; reproduz o conteudo pronto
+Ago 04 23:13:55 galdino:	se alguem tiver sugestao melhor que trello vamos testar
+Ago 04 23:13:59 desci:	mas o gtc insurgente s&#243; administra servidor do piratas.xyz
+Ago 04 23:14:03 *	amaivsimau saiu (Client Quit)
+Ago 04 23:14:05 *	Ary (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:14:07 *	amaivsimau (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:14:50 Ahasverus:	minha sugest&#227;o &#233; aperfei&#231;oar um espa&#231;o tipo a biblioteca.piratas.xyz
+Ago 04 23:15:02 desci:	o link &#233; outro
+Ago 04 23:15:08 desci:	biblioteca.partidopirata.org
+Ago 04 23:15:09 Ahasverus:	onde pessos jogam conteudos no Banco de Ideias, e l&#225; teria um rankeamento do material.
+Ago 04 23:15:15 desci:	pera&#237; vou botar pra redirecionar autom&#225;tico aqui
+Ago 04 23:15:25 desci:	DEPOIS do hangout
+Ago 04 23:16:11 desci:	porque tem que redirecionar os links antigos
+Ago 04 23:16:13 Ahasverus:	quanto aos BOARDS... tem que separar mesmo todas esferas e ninguem ficar sobrecarregado em tradu&#231;&#227;o, editorial etc, s&#243; falta chamar gente pra participar.
+Ago 04 23:16:24 *	amaivsimau saiu (Client Quit)
+Ago 04 23:16:26 tjack:	ningu&#233;m t&#225; discutindo o essencial da reuni&#227;o.... quem vai ser o/a secret&#225;ria/secret&#225;rio?
+Ago 04 23:16:54 tjack:	ok, v&#227;o escolher quando?
+Ago 04 23:16:59 rodrix:	essa reuni&#227;o tem todos os coordenadores?
+Ago 04 23:17:11 galdino:	isso vai ser decidido no loomio
+Ago 04 23:17:12 PabloNun:	Vai ser colocado no loomio
+Ago 04 23:17:26 *	LAF saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 23:17:28 tjack:	Loomio?! afff... OK.
+Ago 04 23:17:51 desci:	reuni&#227;o com todos coordenadores vai acontecer quando nao tiver mais capitalismo no mundo
+Ago 04 23:18:03 desci:	tem dois coordenadores aqui
+Ago 04 23:18:07 Michele:	kkkkkkk
+Ago 04 23:18:33 *	Ary saiu (Client Quit)
+Ago 04 23:18:35 KaNNoN:	ubrman
+Ago 04 23:18:36 KaNNoN:	http://partidopirata.org/o-fim-do-capitalismo-comecou/
+Ago 04 23:18:41 galdino:	toma esse quorum otarios
+Ago 04 23:18:50 corvolino:	olha, fui
+Ago 04 23:18:57 desci:	boa noite corvolino
+Ago 04 23:18:58 tjack:	Cris, saudades!
+Ago 04 23:19:03 rodrix:	<3
+Ago 04 23:19:06 desci:	tu &#233; muito importante pro nosso movimento
+Ago 04 23:19:07 tjack:	corvolino, bjo, meu querido!
+Ago 04 23:19:08 *	bla (KiwiIRC@partidopirata.org) saiu
+Ago 04 23:19:10 Ahasverus:	quorum de cu &#233; rola
+Ago 04 23:19:10 desci:	VAZA MAGR&#195;O
+Ago 04 23:19:18 corvolino:	boa
+Ago 04 23:19:22 desci:	volte sempre
+Ago 04 23:19:26 desci:	use mais irc menos telegram
+Ago 04 23:19:40 tinoco:	tem irc pra symbian?
+Ago 04 23:19:56 desci:	instala f-droid
+Ago 04 23:21:12 *	NewJames saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 23:22:49 MauricioCoeli:	Art. 49 do estatudo por mim &#233; suficiente: Coordena&#231;&#227;o escolhe, e j&#225; s&#227;o definidos GTs para assessorar
+Ago 04 23:22:58 desci:	chegou o GTJ gurizada
+Ago 04 23:23:06 galdino:	oooo o gtj chegooou
+Ago 04 23:24:06 KaNNoN:	Spider Wagner Pyter 23:25
+Ago 04 23:24:07 KaNNoN:	pessoal tava reclamando que t&#225; cheio de piratas advogados
+Ago 04 23:24:07 KaNNoN:	Eu penso que a gente deve ter uns 3 secretarios, um esquerdista, um anarquista, um liberal
+Ago 04 23:24:15 Ahasverus:	:P
+Ago 04 23:24:19 tinoco:	ainda bem que chegou o gtj, sen&#227;o o galdino ia come&#231;ar a propor cortar cabe&#231;as, rs
+Ago 04 23:24:22 Michele:	hahahahahaha
+Ago 04 23:24:59 galdino:	chegou a lei & a ordem
+Ago 04 23:25:00 galdino:	kkk
+Ago 04 23:25:03 tinoco:	que man&#233; ridicularizado, o pyter tinha que escrever o novo estatuto de pr&#243;prio punho
+Ago 04 23:25:06 aenima:	galera, tem em algum lugar o plano de metas para 2015 do partido?
+Ago 04 23:25:22 galdino:	nao. pq nao tem meta para 2015
+Ago 04 23:25:29 galdino:	setores do partido podem ate ter
+Ago 04 23:25:31 tinoco:	a meta &#233; n&#227;o ter meta...
+Ago 04 23:25:33 galdino:	eu fiz um pro gtc
+Ago 04 23:25:39 KKDragonLord:	quando bater &#233; s&#243; dobrar
+Ago 04 23:25:42 galdino:	pra gente dobrar a meta
+Ago 04 23:25:42 Sunnie:	Pra 2016 talvez fosse legal tra&#231;ar um plano
+Ago 04 23:25:44 PabloNun:	uahHUAhuaHUauhauh
+Ago 04 23:25:47 PabloNun:	Estava esperando
+Ago 04 23:25:48 tinoco:	hahahahaha
+Ago 04 23:25:56 dez:	KaNNoN: Eu penso que a gente deve ter uns 3 secretarios, um esquerdista, um anarquista, um liberal
+Ago 04 23:26:01 dez:	quem &#233; o liberal
+Ago 04 23:26:06 hello:	o tinoco
+Ago 04 23:26:09 *	Caos (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:26:09 tjack:	muito LSD...
+Ago 04 23:26:24 tinoco:	sou liberal n&#227;o gente
+Ago 04 23:26:38 aenima:	t&#225; no pad galdino?
+Ago 04 23:26:43 aenima:	a meta?
+Ago 04 23:26:47 rodrix:	eu espero que algum secret&#225;rio pelo menos seja pirata
+Ago 04 23:26:50 tinoco:	to mais pra anarco-bolchevique
+Ago 04 23:26:56 galdino:	ta num pad q eu tenho de achar dps
+Ago 04 23:26:56 dez:	kkk
+Ago 04 23:27:01 aenima:	blzz
+Ago 04 23:27:13 rodrix:	ripado um cd pelo menos na vida
+Ago 04 23:27:14 galdino:	liberal so wilson
+Ago 04 23:27:22 galdino:	esquerdista pode ser tinoco
+Ago 04 23:27:27 *	Antuane (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:27:35 *	kkobold agora &#233; OmmarMotta
+Ago 04 23:27:38 tjack:	rodrix, n&#227;o sabem do que falam...
+Ago 04 23:27:39 galdino:	anarquista antuane q acabou de chegar
+Ago 04 23:27:46 galdino:	pronto tres secretarios
+Ago 04 23:27:49 PabloNun:	Quem &#233; o do PCC a&#237;?
+Ago 04 23:27:59 tjack:	PabloNun, Marcola...
+Ago 04 23:28:01 tinoco:	partino comunista chines?
+Ago 04 23:28:04 Ahasverus:	liberal &#233; o amauri
+Ago 04 23:28:28 galdino:	metade do partido &#233; do partido comunista chin&#234;s
+Ago 04 23:29:04 dez:	eu sou do partido comunista sovi&#233;tico
+Ago 04 23:29:10 *	Ary (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:29:16 tinoco:	a outra metade &#233; yakuza
+Ago 04 23:29:17 Ahasverus:	gente, de 2012 a 2014 n&#227;o tinha secretario em brasilia. como conseguiu fundar etc?
+Ago 04 23:29:19 galdino:	a outra metade &#233; desses outros partidos comunistas poser
+Ago 04 23:29:32 tinoco:	tudo trosko...
+Ago 04 23:29:33 galdino:	daniel fazia essas coisas
+Ago 04 23:29:35 aenima:	o que foi dito &#233; que facilita
+Ago 04 23:29:50 KaNNoN:	e ele precisaria de uma procura&#231;&#227;o
+Ago 04 23:29:51 Ahasverus:	logo , n&#227;o precisou ele ser secretario pra fazer as coisas
+Ago 04 23:30:03 aenima:	mas precisa de uma segunda pessoa
+Ago 04 23:30:10 aenima:	pra assinar, mandar e talz
+Ago 04 23:30:16 aenima:	ele faz apenas a logistica
+Ago 04 23:30:23 aenima:	complica
+Ago 04 23:30:31 Ahasverus:	ent&#227;o, essa propaganda do secretario ser em brasilia, n&#227;o faz sentido
+Ago 04 23:30:44 tjack:	LSD na &#225;gua... n&#227;o bebam &#225;gua. (ou bebam muito...)
+Ago 04 23:30:51 Ahasverus:	o foco pra mim devia ser o BOARD, o secretariado colegiado
+Ago 04 23:30:57 Ahasverus:	e esse BOARD ele seus membros
+Ago 04 23:31:02 tjack:	Ahasverus, +1
+Ago 04 23:31:04 Ahasverus:	elege
+Ago 04 23:31:09 Ahasverus:	elege seus membros
+Ago 04 23:32:05 galdino:	sentido &#233; obvio que faz. so que n&#227;o &#233; necessario
+Ago 04 23:32:15 galdino:	sabemos que pode fazer de outras formas
+Ago 04 23:32:26 Ahasverus:	ent&#227;o, vamos ser pragmaticos
+Ago 04 23:32:28 Ahasverus:	vamos eleger nosso board
+Ago 04 23:32:37 Ahasverus:	e nesse board teremos os GTC GTI GTJ TESOURO ETC
+Ago 04 23:32:43 Ahasverus:	e quem n&#227;o for participar, &#233; expulso do cargo
+Ago 04 23:32:45 Ahasverus:	simples
+Ago 04 23:32:48 Ahasverus:	entra o suplente
+Ago 04 23:33:14 *	Ahasverus agora &#233; PresidentePy
+Ago 04 23:33:35 *	tjack tem candidato &#8594; PresidentePy 
+Ago 04 23:33:38 tinoco:	ou seja, descobre como faz pra tapar o buraco junto a burocracia do tre/tse, bota algu&#233;m, esse algu&#233;m monta uma junta volunt&#225;ria de "assessores" pra tocar a papelada
+Ago 04 23:33:42 tinoco:	&#233; isso?
+Ago 04 23:33:46 *	galdino (KiwiIRC@partidopirata.org) saiu
+Ago 04 23:34:31 rodrix:	eu queria ter conhecido a fabiane
+Ago 04 23:34:44 tjack:	rodrix, vixi... t&#225; doido...
+Ago 04 23:34:58 rodrix:	u&#233;?
+Ago 04 23:35:27 tjack:	rodrix, u&#233;?
+Ago 04 23:35:55 aenima:	ata de abertura e delibera&#231;&#245;es
+Ago 04 23:36:02 tjack:	1 hora e at&#233; agora foi decidido o qu&#234;?
+Ago 04 23:36:03 OmmarMotta:	acho que assiste
+Ago 04 23:36:09 rodrix:	se escolheram ela pra tocar o partido, ela deve ser ponta firme, sei la.
+Ago 04 23:36:15 OmmarMotta:	ainda mais se for audio
+Ago 04 23:36:22 tjack:	rodrix, n&#227;o seja ing&#234;nuo....
+Ago 04 23:36:24 KKDragonLord:	ouvir &#233; f&#225;cil
+Ago 04 23:36:28 OmmarMotta:	melhor ter 1 mp3 da reuniao do que um video no youtube
+Ago 04 23:36:30 MauricioCoeli:	Iuri, depois tem que ver o lance de hospedar o mumblle
+Ago 04 23:36:42 *	KaNNoN voice a Antuane
+Ago 04 23:36:49 *	KaNNoN voice a Michele
+Ago 04 23:36:52 *	KaNNoN voice a Wilson
+Ago 04 23:36:54 *	KaNNoN voice a tinoco
+Ago 04 23:36:57 aenima:	o que se faz &#233; definir o secret&#225;rio da reuni&#227;o, uma reuni&#227;o com ata geralmente tem por regra a dura&#231;&#227;o de 1h
+Ago 04 23:37:18 aenima:	at&#233; pq uma reuni&#227;o sem tempo come&#231;a a dar abertura pra divagar sobre diversos assuntos
+Ago 04 23:37:25 tjack:	OLHA O FUSCA AZUL!!!!!!!!
+Ago 04 23:37:40 PresidentePy:	nossa pauta unica hj &#233; a quest&#227;o de substituir a secretaria.
+Ago 04 23:37:40 rodrix:	reuni&#227;o de 1h, isso deve existir em pais civilizado...
+Ago 04 23:38:00 aenima:	reuni&#227;o pra marcar reuni&#227;o
+Ago 04 23:38:12 aenima:	n&#227;o que esta seja assim
+Ago 04 23:38:15 aenima:	mas sem ata
+Ago 04 23:38:17 tjack:	rodrix, aqui &#233; o Imp&#233;rio das Bananas, civiliza&#231;&#227;o &#233; jogo...
+Ago 04 23:38:18 aenima:	acaba sendo assim
+Ago 04 23:38:33 PresidentePy:	cconcordo em ser uma hora, mas se come&#231;ar no horario
+Ago 04 23:38:37 PresidentePy:	todo mundo chega uma hora depois
+Ago 04 23:38:41 PresidentePy:	ent&#227;o come&#231;a mesmo agora at&#233; meia noite.
+Ago 04 23:38:48 aenima:	coloca como ocorr&#234;ncia
+Ago 04 23:38:50 rodrix:	concordo com ela
+Ago 04 23:38:54 aenima:	3 vezes perde o cargo
+Ago 04 23:38:59 tjack:	KaNNoN, pra ti ver como coordenam... Vamos ficar na madrugada aqui... Relaxemos.
+Ago 04 23:39:11 aenima:	na propria ata vc pode colocar as ocorr&#234;ncias
+Ago 04 23:39:14 aenima:	&#233; um documento
+Ago 04 23:39:46 Ary:	Boa!
+Ago 04 23:40:39 aenima:	at&#233; pra acostumar o grupo de argumentar direcionado
+Ago 04 23:40:44 MauricioCoeli:	E que uma vez escolhida essa pessoa(s), a forma colegiada de trabalhar
+Ago 04 23:41:48 aenima:	gente sou gerente de projetos de tecnologia da informa&#231;&#227;o e inova&#231;&#227;o
+Ago 04 23:42:05 aenima:	se precisarem de for&#231;a pra grupo de trabalho
+Ago 04 23:42:08 aenima:	estou aqui
+Ago 04 23:42:27 tjack:	nonsense... muito nonsense... vou beber que eu ganho mais.
+Ago 04 23:42:42 tjack:	desci, sim, s&#243; tem imbecil aqui no RS. Isso &#233; mais certo que a morte.
+Ago 04 23:42:46 PresidentePy:	apolinario &#233; meu candidato!
+Ago 04 23:43:14 tjack:	desci, se n&#227;o tinha nem link at&#233; 20 minutos antes!
+Ago 04 23:43:19 tjack:	desci, te liga...
+Ago 04 23:43:29 rodrix:	Queria fazer uma pergunta: Quando &#233; a data da proxima assembleia geral pirata?
+Ago 04 23:43:32 PresidentePy:	Apolinario, saia do cargo de coordenador, vc &#233; o substituto legitimo
+Ago 04 23:43:58 tjack:	rodrix, o PresidentePy deve saber
+Ago 04 23:44:03 *	Paulo (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:44:23 PresidentePy:	a proxima, &#233; em algum mes do primeiro semestre de 2016
+Ago 04 23:44:26 PresidentePy:	antes das elei&#231;&#245;es.
+Ago 04 23:44:42 aenima:	to ouvindo normal aqui
+Ago 04 23:44:48 aenima:	vai apolin&#225;rio
+Ago 04 23:44:49 *	Paulo agora &#233; PauloFanti
+Ago 04 23:44:50 aenima:	pow
+Ago 04 23:44:53 aenima:	ehauheauhe
+Ago 04 23:45:00 desci:	laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag
+Ago 04 23:45:04 rodrix:	tipo quando, mar&#231;o?
+Ago 04 23:45:05 OmmarMotta:	Som! 1 2
+Ago 04 23:45:22 PresidentePy:	Quando a 'coordena&#231;&#227;o' decidir
+Ago 04 23:45:23 *	dez voice a MauricioCoeli
+Ago 04 23:45:24 *	TaKa (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:45:28 *	dez voice a OmmarMotta
+Ago 04 23:45:40 *	DanPrazeres saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 23:46:00 *	Fukui (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:46:08 desci:	uhul apolin&#225;rio no som negada
+Ago 04 23:46:30 PresidentePy:	apolinario &#233; o cara
+Ago 04 23:46:45 PresidentePy:	's&#243; queria dizer que &#233; isso mesmo'
+Ago 04 23:46:45 PauloFanti:	Temos candidatos para os cargos ?
+Ago 04 23:46:55 PresidentePy:	Fanti, o candidato pra divulgar coleta de assinaturas
+Ago 04 23:46:56 Fukui:	nao sei
+Ago 04 23:47:04 PresidentePy:	vamos lan&#231;ar varios candidatos
+Ago 04 23:47:08 PauloFanti:	Nao sacaneia Kkkk
+Ago 04 23:47:13 Fukui:	cheguei agora. acabei de fechr a loja
+Ago 04 23:47:19 PresidentePy:	Fukui, candidato rpgista
+Ago 04 23:47:23 aenima:	hahahah
+Ago 04 23:47:36 Jezah:	opa candidato rpgista eu apoio
+Ago 04 23:47:40 tjack:	PresidentePy, tu &#233; foooodaaa!!
+Ago 04 23:47:56 Fukui:	sou jogador de magic, serve?
+Ago 04 23:48:10 PresidentePy:	sou de spellfire
+Ago 04 23:48:10 *	dez voice a Jezah
+Ago 04 23:48:11 Ary:	kkkkkkkkkkk
+Ago 04 23:48:14 PresidentePy:	e gurps medieval
+Ago 04 23:48:19 *	dez voice a Fukui
+Ago 04 23:48:27 Jezah:	magic n&#227;o &#233; rpg
+Ago 04 23:48:30 Jezah:	retiro meu apoio
+Ago 04 23:48:41 PresidentePy:	hueheue
+Ago 04 23:48:59 Fukui:	spellfire *-*
+Ago 04 23:49:01 Michele:	Isso eu sinto falta, integra&#231;&#227;o
+Ago 04 23:49:13 Michele:	especialmente pra eu que to chegando agora
+Ago 04 23:49:28 Michele:	n&#227;o sei nada e do est&#225; sendo feito
+Ago 04 23:49:31 Fukui:	o importante de ter uma conversa gravada eh exatamente poder ouvir o que o pessoal falou de fato. e isso faz parte da transparencia
+Ago 04 23:49:40 OmmarMotta:	o/
+Ago 04 23:49:46 Jezah:	spellfire era muito merda
+Ago 04 23:49:47 PresidentePy:	discurso
+Ago 04 23:49:52 *	server-go (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:49:57 Jezah:	eu tinha os decks que vinham em umas revistas de ilustra&#231;&#245;es
+Ago 04 23:50:01 PresidentePy:	hehe
+Ago 04 23:50:05 PresidentePy:	era em portugues
+Ago 04 23:50:05 Jezah:	quem for nerd velho vai lembrar dessa porra
+Ago 04 23:50:10 PresidentePy:	tenho 33
+Ago 04 23:50:12 Jezah:	mundos da magia ou algo assim
+Ago 04 23:50:15 Jezah:	em portugues
+Ago 04 23:50:16 Jezah:	isso
+Ago 04 23:50:18 PresidentePy:	eu comprava tudo
+Ago 04 23:50:19 Jezah:	tenho 30
+Ago 04 23:50:20 Jezah:	to falando
+Ago 04 23:50:22 PresidentePy:	l&#225; em Juiz de Fora -mg
+Ago 04 23:50:24 *	Caos saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 04 23:50:28 PresidentePy:	tinha uma loja
+Ago 04 23:50:30 PresidentePy:	Compendium
+Ago 04 23:50:31 OmmarMotta:	saco nada
+Ago 04 23:50:40 PresidentePy:	mas eu curtia mesmo era quadrinhos  e videogames.
+Ago 04 23:50:44 Jezah:	a gente aqui de minas tava numa reuni&#227;o expandida do tarifa zero e do mpl
+Ago 04 23:50:45 PresidentePy:	e jogar Wars
+Ago 04 23:50:45 *	Max (KiwiIRC@partidopirata.org) entrou
+Ago 04 23:50:48 PresidentePy:	e Worms
+Ago 04 23:50:53 Jezah:	e chegou uma guria da juventude do pstu pra falar
+Ago 04 23:51:04 Jezah:	eu acho que a gente devia fazer um movimento da velhice pirata
+Ago 04 23:51:13 Jezah:	s&#243; com a galera velha de guerra
+Ago 04 23:51:26 OmmarMotta:	*palmas diplomaticas*
+Ago 04 23:51:38 desci:	Juliano ta dizendo no hangout que ta sem som
+Ago 04 23:51:41 Jezah:	worms era irado
+Ago 04 23:51:41 desci:	e sm microfne
+Ago 04 23:51:43 tjack:	Max, o pequeno pr&#237;ncipe! :*
+Ago 04 23:52:10 Fukui:	pra mim eh que ateh este momento eh a primeira reuniao.
+Ago 04 23:52:13 KKDragonLord:	acho brilhante essa ideia de uma velha vanguarda
+Ago 04 23:52:20 KaNNoN:	Cad&#234; Sunnie.
+Ago 04 23:52:27 OmmarMotta:	velha guarda nao.  odeio guarda
+Ago 04 23:52:44 Fukui:	a tesouraria nao ta fazendo porra nenhuma
+Ago 04 23:52:51 Ary:	boa
+Ago 04 23:52:52 KKDragonLord:	vanguarda, primeira fila, aqueles que caem em cima
+Ago 04 23:52:53 Fukui:	@kannon
+Ago 04 23:52:57 Fukui:	fala la plz
+Ago 04 23:52:58 MauricioCoeli:	A de Minas n&#227;o Fukui rs
+Ago 04 23:53:07 aenima:	o que acontece &#233; que a comunica&#231;&#227;o &#233; muito segmentada ... &#233; loomio, facebook, email,  pad, etc e tal
+Ago 04 23:53:14 Jezah:	ent&#227;o
+Ago 04 23:53:15 Fukui:	a tesouraria estadual
+Ago 04 23:53:18 Jezah:	uma reuni&#227;ozinha mensal
+Ago 04 23:53:19 Jezah:	online
+Ago 04 23:53:19 Fukui:	ops
+Ago 04 23:53:20 Ary:	tamb&#233;m acho
+Ago 04 23:53:21 Fukui:	nacional
+Ago 04 23:53:21 hello:	pirata n&#227;o trabalha pow
+Ago 04 23:53:24 Jezah:	nacional ia ser foda
+Ago 04 23:53:26 Ary:	deveria centralizar
+Ago 04 23:53:37 Ary:	a comunica&#231;&#227;o
+Ago 04 23:53:53 Michele:	concordo
+Ago 04 23:54:02 Fukui:	Alguem ta lendo isso que ta no chat???
+Ago 04 23:54:08 MauricioCoeli:	Estruturar aqui e compartilhar as porposi&#231;&#245;es para ver se isso 'sobe' pra nacional
+Ago 04 23:54:08 PresidentePy:	a&#237; quando faz sem autoriza&#231;&#227;o, vc &#233; ca&#231;ado e expulso do partido
+Ago 04 23:54:08 PresidentePy:	a&#237; quando faz sem autoriza&#231;&#227;o, vc &#233; ca&#231;ado e expulso do partido
+Ago 04 23:54:08 PresidentePy:	a&#237; quando faz sem autoriza&#231;&#227;o, vc &#233; ca&#231;ado e expulso do partido
+Ago 04 23:54:09 PresidentePy:	a&#237; quando faz sem autoriza&#231;&#227;o, vc &#233; ca&#231;ado e expulso do partido
+Ago 04 23:54:09 PresidentePy:	a&#237; quando faz sem autoriza&#231;&#227;o, vc &#233; ca&#231;ado e expulso do partido
+Ago 04 23:54:12 Sunnie:	eu t&#212;, FUKUI
+Ago 04 23:54:16 Sunnie:	Desculpem o caps
+Ago 04 23:54:18 Sunnie:	bati o dedo
+Ago 04 23:54:28 Fukui:	Fala sobre o problema da nao vacancia vacado da tesouraria
+Ago 04 23:54:38 PresidentePy:	a vaca louca. MUuuuu
+Ago 04 23:54:50 tjack:	o GTJ funciona &#8594; processos disciplinares, expuls&#245;es de coletivos, etc... isso &#233; nonsense sovi&#233;tico...
+Ago 04 23:55:09 tjack:	Max, querido! :*
+Ago 04 23:55:30 KKDragonLord:	tendo reunioes frequentes para alinhar os discursos, a autonomia funciona
+Ago 04 23:55:32 Max:	aguarda que o teu j&#225; t&#225; chegando puppo
+Ago 04 23:55:44 tjack:	Max, t&#244; ansioso, querido.
+Ago 04 23:55:45 Sunnie:	entra, Fukui, tem espa&#231;o
+Ago 04 23:55:49 rodrix:	ningu&#233;m sabe onde o tesouro esta enterrado
+Ago 04 23:55:55 hello:	site no github
+Ago 04 23:55:58 Max:	N&#227;o fique.
+Ago 04 23:56:17 Fukui:	ta cheio pra mim Ana.
+Ago 04 23:56:18 desci:	vaquinha pro Juliano comprar um microfone
+Ago 04 23:56:22 rodrix:	fale fukui, eu quero te ouvir
+Ago 04 23:56:24 PresidentePy:	Fukui: t&#225; aberto
+Ago 04 23:56:30 tjack:	Max, que lindo da tua parte. Te amo, fofucho.
+Ago 04 23:56:33 Sunnie:	tem 9
+Ago 04 23:56:50 hello:	&#233; big brother
+Ago 04 23:57:05 desci:	todo mundo assitindo a reuni&#227;o
+Ago 04 23:57:15 desci:	https://plus.google.com/events/cf3sk6cl3g94jo0pvdj29jsbs94
+Ago 04 23:57:25 desci:	https://pad.okfn.org/p/reuniao-4-08
+Ago 04 23:58:53 aenima:	tiro porrada e bomba
+Ago 04 23:59:33 desci:	IUF
+Ago 04 23:59:36 hello:	desliga o cs
+Ago 04 23:59:38 desci:	aaaaaaa
+Ago 04 23:59:55 desci:	Vota&#227;&#231;o aqui no IRC pra chutar o Wagner do hangout
+Ago 05 00:00:05 desci:	que&#233;m a favor nao fala nada
+Ago 05 00:00:16 PresidentePy:	desci: eu sou candidato
+Ago 05 00:00:21 PresidentePy:	desci: mas posso sair pro max entrar
+Ago 05 00:00:27 Sunnie:	Pyter t&#225; quieto hoje, deixem ele
+Ago 05 00:00:31 hello:	desci &#233; desc&#237;clope?
+Ago 05 00:00:34 PresidentePy:	e indico todos sairem, e deixar os oficiais
+Ago 05 00:00:34 Sunnie:	Se o Max tiver a bondade n&#233;
+Ago 05 00:00:38 desci:	n&#227;o tem vota&#227;&#231;o, Pyter
+Ago 05 00:00:49 desci:	quem quer se candidatar vai ter que se apresentar no loomio
+Ago 05 00:00:49 tjack:	PresidentePy, o Max entalou no troninho de pr&#237;ncipe dele....
+Ago 05 00:00:53 aenima:	gente, vou indo... grande abra&#231;o a todos
+Ago 05 00:01:08 hello:	como faz pra entrar no loomio
+Ago 05 00:01:12 desci:	boa noite
+Ago 05 00:01:14 tjack:	desci, t&#244; de quarentena... "Medo do Puppo"
+Ago 05 00:01:21 *	aenima saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 00:01:23 tjack:	hello, espera sentado....
+Ago 05 00:01:26 PresidentePy:	Olha, eu queria falar minha proposta de mudan&#231;a coletiva, e n&#227;o simplesmente substituir a secretaria
+Ago 05 00:02:16 hello:	pq tjack
+Ago 05 00:02:18 PresidentePy:	estatuto &#233; s&#243; pra algo externo
+Ago 05 00:02:19 PresidentePy:	precisamos aproveitar essa oportunidade
+Ago 05 00:02:19 desci:	https://pad.okfn.org/p/reuniao-4-08
+Ago 05 00:02:22 MauricioCoeli:	Kannon isso pode ser um primeiro trabalho da nova Sec Geral junto com as Coordena&#231;&#245;es Regionais
+Ago 05 00:02:39 desci:	PresidentePy: isto&#227; no &#233; uma elei&#231;&#227;o cara
+Ago 05 00:02:46 MauricioCoeli:	Elencar todas esses pontos para serem trabalhados
+Ago 05 00:02:50 desci:	a coordena&#231;ao vai indicar um secretario de papel
+Ago 05 00:02:54 PresidentePy:	eu sei
+Ago 05 00:02:56 PresidentePy:	sou contra isso
+Ago 05 00:03:04 rodrix:	pagar sedex
+Ago 05 00:03:05 PresidentePy:	continuar s&#243; no papel
+Ago 05 00:03:08 Ary:	isso
+Ago 05 00:03:10 desci:	tu&#233;  afavor de ficar sem secretaria?
+Ago 05 00:03:13 PresidentePy:	sim
+Ago 05 00:03:17 PresidentePy:	nunca serviu pra nada
+Ago 05 00:03:21 PresidentePy:	eu quero reativar o movimento pirata
+Ago 05 00:03:23 tjack:	hello, pq tu tem que ser investigado por uns 2 meses ou mais (h&#225; casos de 8 meses)... Mas pergunta a&#237; pro povo... Vou beber que ganho mais.
+Ago 05 00:03:23 desci:	pro TSE serve
+Ago 05 00:03:28 desci:	&#233; &#243;s isto que interessa
+Ago 05 00:03:31 PresidentePy:	serve?
+Ago 05 00:03:35 PresidentePy:	a gente n&#227;o pode usar o cnpj
+Ago 05 00:03:41 PresidentePy:	nem temos coleta de assinaturas
+Ago 05 00:03:44 desci:	pro TSE serve pra assinar a porra doapapel
+Ago 05 00:03:45 PresidentePy:	serve pra que?
+Ago 05 00:03:51 PresidentePy:	papel pra que? vai usar pra que?
+Ago 05 00:03:51 desci:	a gente n&#227;o pode usar o cnpj porque somos imbecis
+Ago 05 00:03:56 desci:	nao porque n&#227;o temos secretario
+Ago 05 00:03:58 PresidentePy:	juliano e o gtj
+Ago 05 00:04:04 PresidentePy:	tem altas tretas que eles n&#227;o contam
+Ago 05 00:04:05 desci:	o secretario n&#225;unca far nada pra agilizar o cnj
+Ago 05 00:04:07 PresidentePy:	de erros no estatuto etc
+Ago 05 00:04:49 tjack:	PresidentePy, mas advogado &#233; pra isso, pra achar brechas "na Lei"...
+Ago 05 00:04:49 Sunnie:	Pyter,se houver a inten&#231;&#227;o de legalizar um partido pol&#237;tico tem de seguir a lei, e a lei diz que &#233; pra ter um secret&#225;rio
+Ago 05 00:04:57 Sunnie:	Nem que fique sentado cagando o dia inteiro
+Ago 05 00:04:57 hello:	piratas e burocracia s&#227;o duas coisas antag&#244;nicas
+Ago 05 00:05:04 PresidentePy:	n&#227;o vamos legalizar esse partido do jeito que t&#225;
+Ago 05 00:05:07 PresidentePy:	sem gente sem estrutura
+Ago 05 00:05:09 tjack:	hello, conseguimos juntar tudo.
+Ago 05 00:05:10 Sunnie:	Concordo, n&#227;o sou da linha 'partido', mas existe essa linha
+Ago 05 00:05:16 Sunnie:	e pra isso tem que ter secret&#225;rio
+Ago 05 00:05:37 Fukui:	o problema de nao ter uma conta no banco eh outra. mas blz.
+Ago 05 00:05:53 hello:	tjack:juntar o q
+Ago 05 00:06:05 dez:	desci: tu&#233;  afavor de ficar sem secretaria?
+Ago 05 00:06:07 dez:	s
+Ago 05 00:06:09 rodrix:	o que precia para esse CNPJ?
+Ago 05 00:06:30 rodrix:	n&#227;o &#233; s&#243; levar uma c&#243;pia do estatuto na receita?
+Ago 05 00:06:30 *	DanPrazeres (KiwiIRC@partidopirata.org) entrou
+Ago 05 00:07:01 Max:	mas isso &#233; pra pr&#243;xima anapirata p&#244;
+Ago 05 00:07:02 hello:	manda pra prancha
+Ago 05 00:07:06 tjack:	hello, juntamos a pirataria com a burocracia.
+Ago 05 00:07:24 Fukui:	hiauahauahauhauahuahauahuahauahuahau
+Ago 05 00:07:45 hello:	a burocracia juntou a pirataria
+Ago 05 00:08:15 Max:	mconf
+Ago 05 00:08:17 rodrix:	http://www.receita.fazenda.gov.br/PessoaJuridica/CNPJ/tabelas/DocumentosEventos.htm
+Ago 05 00:08:32 Fukui:	desculpa @iuri, eu tive que rir da sua fala anti hangout. parecia que tinha demorado xD
+Ago 05 00:08:42 server-go:	Mas os grupos s&#227;o eram por ades&#227;o? como fica isso no caso de comunica&#231;&#227;o horizontal, pq t&#225; pulverizado: loomio, FB, ir, G+ e tal...
+Ago 05 00:09:03 Max:	Rodrix j&#225; tem CNPJ s&#243; que tem um tr&#226;mite para fazer antes de usar
+Ago 05 00:09:14 Sunnie:	Tem de mapear todas essas coisas fragmentadas e pensar numa estrat&#233;gia de integra&#231;&#227;o.
+Ago 05 00:09:25 desci:	parab&#233;sn wagner
+Ago 05 00:09:25 Sunnie:	Por exemplo, linkar tudo ao site
+Ago 05 00:09:31 server-go:	E quais os passos pra usar o CNPJ, +Sunnie?
+Ago 05 00:09:36 desci:	PresidentePy parab&#233;ns de novo
+Ago 05 00:09:36 hello:	fazer as paradas por obriga&#231;&#227;o fica cansativo
+Ago 05 00:09:39 KaNNoN:	Juliano escreveu:
+Ago 05 00:09:39 KaNNoN:	n&#243;s  ate  agora  n&#227;o   efetivamos um   espa&#231;o de discuss&#227;o onde    todos   entrem
+Ago 05 00:09:39 KaNNoN:	on line
+Ago 05 00:09:39 KaNNoN:	o anon mais imbecil ja  tem um canal pr&#243;prio
+Ago 05 00:09:39 KaNNoN:	nozes, n&#227;o
+Ago 05 00:09:39 KaNNoN:	http://www.raidcall.com.br//index.html
+Ago 05 00:09:40 KaNNoN:	to entrando l&#225; e  abrindo a sala
+Ago 05 00:09:43 desci:	calou a minha boca
+Ago 05 00:09:48 rodrix:	que tramite Max ?
+Ago 05 00:09:55 PresidentePy:	aff, raidcall?
+Ago 05 00:09:57 PresidentePy:	huehuehuehuehue
+Ago 05 00:09:59 tjack:	RaidCall?!
+Ago 05 00:09:59 *	Antuane saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 00:10:12 tjack:	denovo nessas ondas dos Anons...
+Ago 05 00:10:15 Sunnie:	Acho que a do CNPJ n&#227;o era comigo, mas
+Ago 05 00:10:19 *	PabloNun saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 00:10:20 Max:	Rodrix bah mano fazer coisas tipo formalizar diret&#243;rios em todos os n&#237;veis etc
+Ago 05 00:10:25 Sunnie:	Por ser partido pra usar qualquer coisa &#233; meio diferente de uma empresa
+Ago 05 00:10:38 Max:	tr&#226;mites burocr&#225;ticos com o TSE
+Ago 05 00:10:46 Sunnie:	Precisa levar as certid&#245;es e escambau que o TSE/TRE fornecem, e eles s&#243; fornecem sob determinadas condi&#231;&#245;es
+Ago 05 00:10:47 rodrix:	mas &#233; o cnpj nacional
+Ago 05 00:10:51 rodrix:	max
+Ago 05 00:11:03 server-go:	parece q tem muitas demandas... as discuss&#245;es correm pra todos os lados!
+Ago 05 00:11:03 Max:	Rodrix yep
+Ago 05 00:11:18 DanPrazeres:	raidcall n&#227;o tinha um problema com linux?
+Ago 05 00:11:24 PresidentePy:	(nunca tivemos algo de verdade decidido pelo coletivo)
+Ago 05 00:11:24 PresidentePy:	n&#227;o temos ferramentas pra isso
+Ago 05 00:11:25 MauricioCoeli:	E ai Corrdena&#231;&#227;o, quem vcs indicam?
+Ago 05 00:11:31 KaNNoN:	&#201;, radicall linux s&#243; com wine se n&#227;o me engano.
+Ago 05 00:11:37 server-go:	os diret&#243;rios locais precisam o CNPJ pra que? como funciona?
+Ago 05 00:11:46 Sunnie:	Por exemplo pra abrir contas locais
+Ago 05 00:11:48 rodrix:	max n&#227;o pedem s&#243; isso: Estatuto, acompanhado da ata de assembleia de constitui&#231;&#227;o e de elei&#231;&#227;o/posse do seu dirigente, registrados no RCPJ.
+Ago 05 00:12:14 Max:	MauricioCoeli vamos receber as indica&#231;&#245;es pelo loomio e formalizar de acordo com o coletivo
+Ago 05 00:12:16 tjack:	KaNNoN, Wine &#233; um programa que roda no Linux. N&#227;o h&#225; problema algum. O problema &#233; o RaidCall... Mas...
+Ago 05 00:12:28 Sunnie:	Pra n&#227;o ficar por exemplo com venda de itens como camisetas e bottons atrelados &#224; conta nacional, porque qualquer peido que se precise dar no banco ia precisar do secret&#225;rio de Bras&#237;lia
+Ago 05 00:12:38 Max:	Rodrix td isso tem
+Ago 05 00:12:39 server-go:	ent&#227;o +rodrix, cada diret&#243;rio tem q se organizar pra ter cnpj e tal?
+Ago 05 00:12:39 *	Ary saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 00:12:43 rodrix:	Estatuto, acompanhado do ato de constitui&#231;&#227;o do &#243;rg&#227;o partid&#225;rio e de designa&#231;&#227;o de seus dirigentes, registrados no RCPJ de Bras&#237;lia-DF.
+Ago 05 00:12:44 MauricioCoeli:	Sim, mas a Coordena&#231;&#227;o n&#227;o vai sinalizar ningu&#233;m agora?
+Ago 05 00:12:49 Sunnie:	ent&#227;o por raz&#245;es pr&#225;ticas de log&#237;stica &#233; mais f&#225;cil regionalizar o CNPJ
+Ago 05 00:13:03 server-go:	O Iuri t&#225; certissimo sobre o loomio...
+Ago 05 00:13:07 *	Ary (KiwiIRC@partidopirata.org) entrou
+Ago 05 00:13:08 PresidentePy:	A coordena&#231;&#227;o quer o Daniel Prazeres, por morar em Brasilia
+Ago 05 00:13:09 Sunnie:	Vai, Mauricio, provavelmente o Daniel que j&#225; est&#225; lidando com a burocracia
+Ago 05 00:13:12 MauricioCoeli:	Pq tipo caso mais algu&#233;m queria 'concorrer' j&#225; fala de uma vez tb Max
+Ago 05 00:13:13 PresidentePy:	eu sou contra essa proposta.
+Ago 05 00:13:20 Max:	MauricioCoeli nope, temos nossas preferencias pessoais, mas n&#227;o vamos indicar
+Ago 05 00:13:22 rodrix:	max n&#227;o d&#225; para ter uma conta conjunta?
+Ago 05 00:13:30 server-go:	l&#225; tem at&#233; ferramentas de vota&#231;&#227;o e talz...
+Ago 05 00:13:41 Max:	rodrix ainda n&#227;o
+Ago 05 00:14:02 Max:	s&#243; depois do tr&#226;mite :/
+Ago 05 00:14:18 *	KaNNoN voice a DanPrazeres
+Ago 05 00:14:21 tinoco:	piratad, vou l&#225;, boa sorte e boa noite
+Ago 05 00:14:22 *	KaNNoN voice a Max
+Ago 05 00:14:28 rodrix:	o caixa do partido que n&#227;o tem conta no banco pode ser uma caixa de sapato, funciona da mesma forma, max
+Ago 05 00:14:44 *	KaNNoN voice a TaKa
+Ago 05 00:14:52 Max:	sei l&#225; velho, tem que ver com o TSE
+Ago 05 00:15:08 MauricioCoeli:	Ok ent&#227;o... achei que a Coordena&#231;&#227;o fosse dizer os nomes poss&#237;vies e depois quem se interessasse se manifestasse e ai jogaria no Loomio para delibera&#231;&#227;o coeltiva
+Ago 05 00:15:22 Max:	KaNNoN n&#227;o deveria ter hangout s&#243; esse iRC
+Ago 05 00:15:23 Sunnie:	Entendi que interessados tamb&#233;m podem se candidatar
+Ago 05 00:15:24 PresidentePy:	os candidatos se colocam
+Ago 05 00:15:31 PresidentePy:	como se fosse uma 'consulta publica'
+Ago 05 00:15:33 tjack:	Max, pq?
+Ago 05 00:15:34 PresidentePy:	e a coordena&#231;&#227;o decide.
+Ago 05 00:15:45 rodrix:	o cnpj quem d&#225; &#233; a receita. ces precisam ver la; Ou usar uma caixinha de papel&#227;o que serve como banco tamb&#233;m
+Ago 05 00:15:53 Sunnie:	Pode ser tamb&#233;m, Pyter, n&#227;o vejo impedimento em algo assim
+Ago 05 00:15:54 Max:	isso que o troll falou
+Ago 05 00:15:56 server-go:	pique lista do Supremo?
+Ago 05 00:15:56 MauricioCoeli:	Blz ent&#227;o PresidentePy...
+Ago 05 00:16:01 Sunnie:	A&#237; partiria de algu&#233;m que quer fazer
+Ago 05 00:16:06 Sunnie:	Mas o Daniel j&#225; se colocou assim tamb&#233;m
+Ago 05 00:16:12 *	icanolargv (~icanolarg@partidopirata.org) entrou
+Ago 05 00:16:21 *	icanolargv saiu (Client Quit)
+Ago 05 00:16:22 Max:	eu vou votar no Daniel se ele se candidatar MauricioCoeli
+Ago 05 00:16:32 *	tinoco saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 00:16:45 tjack:	Max, mudou r&#225;pido de "prefer&#234;ncia pessoal"...
+Ago 05 00:16:49 PresidentePy:	Parece elei&#231;&#227;o de reitoria. tem a elei&#231;&#227;o de consulta, mas quem decide &#233; o mec
+Ago 05 00:16:58 Max:	mas n&#227;o vou indicar nada, a id&#233;ia &#233; justamente o povo nos dar um nome e a gente s&#243; referendar
+Ago 05 00:17:11 tjack:	Max, defina "a gente"
+Ago 05 00:17:31 PresidentePy:	por mim, tirava todos coordenadores, s&#243; deixava os legitimos
+Ago 05 00:17:40 PresidentePy:	e renovava os grupos de trabalho
+Ago 05 00:17:59 *	TaKa saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 00:18:04 server-go:	E o que legitima um coordenador, Py?
+Ago 05 00:18:09 tjack:	server-go, +1
+Ago 05 00:18:11 Max:	@tjack n&#227;o vou falar contigo at&#233; resolver tua situa&#231;&#227;o. n&#227;o quero te expor nem a guria. ent&#227;o me larga de m&#227;o;
+Ago 05 00:18:18 PresidentePy:	Apolinario pra Presidente
+Ago 05 00:18:33 PresidentePy:	server-go: ser eleito pelo encontro regional
+Ago 05 00:18:44 tjack:	Max, expor o qu&#234;? Fala a&#237;? E que guria? T&#225; tomando muito LSD e fazendo bruxaria...
+Ago 05 00:18:51 PresidentePy:	server-go: os eleitos na assembleia, foram tipo aclama&#231;&#227;o
+Ago 05 00:19:00 OmmarMotta:	 eu posso ajudar com o gti.
+Ago 05 00:19:10 server-go:	E quando n&#227;o tem um encontro regional? ou por falta de numero ou por reorganiza&#231;&#227;o simples?
+Ago 05 00:19:18 OmmarMotta:	server setup. programa&#231;&#227;o e pretty much qalquer outra coisa
+Ago 05 00:19:25 PresidentePy:	server-go: do mesmo jeito que nao tem assembleia, e vamos ter um novo secretario.
+Ago 05 00:19:36 tjack:	Max, fala a&#237; pequeno pr&#237;ncipe, n&#227;o fique com medo do tio Puppo.
+Ago 05 00:19:39 Max:	@tjack expor a den&#250;ncia que recebi de ti.
+Ago 05 00:19:42 hello:	cria uma conta do piratas no github
+Ago 05 00:19:55 tjack:	Max, virou pol&#237;cia?! UOU! Den&#250;ncia do qu&#234;?
+Ago 05 00:20:40 Sunnie:	Velho
+Ago 05 00:20:41 desci:	QUem quiser sh em piratas.xyz
+Ago 05 00:20:43 Sunnie:	Caralho
+Ago 05 00:20:47 Sunnie:	V&#227;o brigar aqui tamb&#233;m?
+Ago 05 00:20:48 desci:	manda e-mail pra iuri@piratas.xyz
+Ago 05 00:20:51 PresidentePy:	https://www.loomio.org/d/j7WyLNXP/ajuda-para-criar-coletivos-municipais
+Ago 05 00:20:51 tjack:	Max, tu, agora como policial e pequeno pr&#237;ncipe, vai me mandar pro "cantinho do pensamento"? Vai limpar a bunda...
+Ago 05 00:20:56 tjack:	Sunnie, n&#227;o vou...
+Ago 05 00:20:56 Sunnie:	Tentem UMA VEZ NA VIDA manter o foco
+Ago 05 00:21:03 server-go:	hummm... complicador pra n&#243;s todos... mas precisamos por pra andar, dar a primeira volta na roda...
+Ago 05 00:21:04 Fukui:	joga um osso pro max e um pro puppo
+Ago 05 00:21:10 Fukui:	e deixa eles se divertirem
+Ago 05 00:21:15 Sunnie:	um biscoito pra cada um
+Ago 05 00:21:59 Max:	rid&#237;culos
+Ago 05 00:22:09 KKDragonLord:	*mission accomplished*
+Ago 05 00:22:24 PresidentePy:	se o voto &#233; individual, n&#227;o entendo o sentido de fazer propaganda.
+Ago 05 00:22:35 *	Ary saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 00:22:50 tjack:	KaNNoN, d&#225; +v pra todo mundo a&#237; que tem que falar, vou colocar no moderado, a&#237; deu...
+Ago 05 00:23:00 Max:	como assim indica&#231;&#227;o da coordena&#231;&#227;o? isso n&#227;o foi acordado
+Ago 05 00:23:07 server-go:	voltando a vaca fria... A indica&#231;&#227;o pela Coordena&#231;&#227;o n&#227;o direciona os votos?
+Ago 05 00:23:09 desci:	O PresidentePy  &#233; o &#250;ltimo ba&#227;stio de resistencia
+Ago 05 00:23:13 *	tjack modo +m em #piratas
+Ago 05 00:23:18 desci:	PresidentePy: pra presidente
+Ago 05 00:23:25 *	tjack voice a KKDragonLord
+Ago 05 00:23:30 *	tjack voice a server-go
+Ago 05 00:23:32 *	tjack voice a PresidentePy
+Ago 05 00:23:35 *	tjack voice a PauloFanti
+Ago 05 00:23:37 *	tjack voice a lucasdcarvalho
+Ago 05 00:23:40 *	tjack voice a lfamorim
+Ago 05 00:23:40 desci:	tjack: eu vou te tirar do op
+Ago 05 00:23:43 *	tjack voice a hello
+Ago 05 00:23:51 *	tjack remover estatuto operator de canal tjack
+Ago 05 00:24:35 desci:	est&#225; sendo acordado agora Max
+Ago 05 00:24:43 desci:	te manifesta
+Ago 05 00:24:47 Max:	n&#227;o por mim
+Ago 05 00:24:49 desci:	tem quatro coordenadores no hangout
+Ago 05 00:24:54 MauricioCoeli:	Galera a coisa t&#225; esquisita: a pessoa se candidata dai a Coordena&#231;&#227;o indica?
+Ago 05 00:24:58 PresidentePy:	Max concorda comigo, ufa
+Ago 05 00:25:25 KaNNoN:	Est&#227;o falando.
+Ago 05 00:25:41 MauricioCoeli:	A coordena&#231;&#227;o podia indicar, a pessoa indicada diz se aceita ou n&#227;o, e concomitante a isso quem masi quiser q se candidate, dai vota
+Ago 05 00:26:08 PresidentePy:	o max devia entrar l&#225; no hangout
+Ago 05 00:26:12 *	Antuane (KiwiIRC@partidopirata.org) entrou
+Ago 05 00:26:27 KKDragonLord:	isso n&#227;o seria inverter a l&#243;gica de ser uma escolha de baixo para cima?
+Ago 05 00:26:33 server-go:	se a coordena&#231;&#227;o indicar, direciona o voto...
+Ago 05 00:26:34 KaNNoN:	A coordena&#231;&#227;o vai indicar quem for escolhido pelo Loomio.
+Ago 05 00:26:41 KaNNoN:	&#201; isso.
+Ago 05 00:26:43 Sunnie:	O Estatuto diz que a Coordena&#231;&#227;o indica. Certo?
+Ago 05 00:26:46 *	deftones saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 00:26:50 KaNNoN:	Sim, o estatuto diz.
+Ago 05 00:26:54 Max:	MauricioCoeli s&#243; quem pode indicar provimento de cargo da administra&#231;&#227;o nacional &#233; a coordena&#231;&#227;o, por&#233;m entendemos que isso dever vir dos pr&#243;prios piratas, ent&#227;o s&#243; vamos acatar o que o povo decidir
+Ago 05 00:26:55 Sunnie:	Est&#227;o tentando chegar em algo que n&#227;o contrarie o Estatuto e n&#227;o seja imposto
+Ago 05 00:27:00 server-go:	mas quem dizer se candidata, n&#227;o?
+Ago 05 00:27:05 Sunnie:	Ent&#227;o a Coordena&#231;&#227;o indica quem for votado pelo Loomio
+Ago 05 00:27:23 Sunnie:	Se respeita o estatuto e se respeita a maioria
+Ago 05 00:27:28 Sunnie:	Ficou mais f&#225;cil?
+Ago 05 00:27:35 KaNNoN:	Sim, &#233; isso.
+Ago 05 00:27:38 PresidentePy:	expulsa o max do irc e manda ele entrar no hangout
+Ago 05 00:27:41 Max:	enquanto individuos vamos nos posicionar, mas n&#227;o como indica&#231;&#227;o
+Ago 05 00:27:41 MauricioCoeli:	Isso Kannon
+Ago 05 00:27:43 Sunnie:	Posso colocar Aleluia pra tocar?
+Ago 05 00:28:02 server-go:	em suma: vota-se no loomio e a coordena&#231;&#227;o d&#225; posse/indica pro cargo...
+Ago 05 00:28:05 rodrix:	&#233; s&#243; uma consulta
+Ago 05 00:28:12 Sunnie:	Isso!
+Ago 05 00:28:13 *	du saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 00:28:13 -ChanServ-	Invalid parameters for SET.
+Ago 05 00:28:13 -ChanServ-	Syntax: SET <#channel> setting: [parameters]
+Ago 05 00:28:21 -ChanServ-	Invalid command. Use /msg ChanServ help for a command listing.
+Ago 05 00:28:22 Max:	elei&#231;&#227;o em si s&#243; pode rolar em anapirata
+Ago 05 00:28:26 desci:	Max  o estatuo diz que a coordena&#231;&#227;o tem que indicar o secret&#225;rio
+Ago 05 00:28:32 desci:	n&#227;o &#233; uma elei&#231;ao isto
+Ago 05 00:28:36 Sunnie:	J&#225; falamos sobre isso tamb&#233;m, Max
+Ago 05 00:28:38 KaNNoN:	&#233; CONSULTA
+Ago 05 00:28:42 PresidentePy:	cada, indique individualmente, e n&#227;o em nome do partido
+Ago 05 00:28:43 -ChanServ-	***** ChanServ Help *****
+Ago 05 00:28:43 -ChanServ-	Help for SET:
+Ago 05 00:28:43 -ChanServ-	 
+Ago 05 00:28:43 -ChanServ-	SET allows you to set various control flags
+Ago 05 00:28:43 -ChanServ-	for channels that change the way certain
+Ago 05 00:28:43 -ChanServ-	operations are performed on them.
+Ago 05 00:28:43 -ChanServ-	 
+Ago 05 00:28:43 -ChanServ-	The following subcommands are available:
+Ago 05 00:28:43 -ChanServ-	ANTIFLOOD       Set anti-flood action
+Ago 05 00:28:43 -ChanServ-	EMAIL           Sets the channel e-mail address.
+Ago 05 00:28:43 -ChanServ-	ENTRYMSG        Sets the channel's entry message.
+Ago 05 00:28:43 -ChanServ-	FANTASY         Allows or disallows in-channel commands.
+Ago 05 00:28:43 -ChanServ-	GUARD           Sets whether or not services will inhabit the channel.
+Ago 05 00:28:43 -ChanServ-	KEEPTOPIC       Enables topic retention.
+Ago 05 00:28:43 -ChanServ-	MLOCK           Sets channel mode lock.
+Ago 05 00:28:43 -ChanServ-	NOSYNC          Disables automatic channel ACL syncing.
+Ago 05 00:28:43 -ChanServ-	PREFIX          Sets the channel PREFIX.
+Ago 05 00:28:43 -ChanServ-	PRIVATE         Hides information about a channel.
+Ago 05 00:28:43 -ChanServ-	PROPERTY        Manipulates channel metadata.
+Ago 05 00:28:43 -ChanServ-	RESTRICTED      Restricts access to the channel to users on the access list. (Other users are kickbanned.)
+Ago 05 00:28:43 -ChanServ-	SECURE          Prevents unauthorized users from gaining operator status.
+Ago 05 00:28:43 -ChanServ-	TOPICLOCK       Restricts who can change the topic.
+Ago 05 00:28:43 -ChanServ-	URL             Sets the channel URL.
+Ago 05 00:28:43 -ChanServ-	VERBOSE         Notifies channel about access list modifications.
+Ago 05 00:28:43 -ChanServ-	 
+Ago 05 00:28:43 -ChanServ-	For more specific help use /msg ChanServ HELP SET command.
+Ago 05 00:28:43 -ChanServ-	***** End of Help *****
+Ago 05 00:28:45 Max:	&#233; isso que estou falando
+Ago 05 00:28:51 desci:	a coordena&#231;&#227;o est&#225; deliberadamente decidindo que vai fazer a consulta no loomio
+Ago 05 00:28:56 desci:	&#227;no estamos elegndo ningu&#233;m
+Ago 05 00:29:00 server-go:	e a coordena&#231;&#227;o quer consultar se A ou B &#233; uma boa pedida...
+Ago 05 00:29:03 MauricioCoeli:	Ent&#227;o ser&#225;: candidate-se quem quiser e votemos todos, quem for mais votado a Coordena&#231;&#227;o 'indica' e pornto
+Ago 05 00:29:07 *	KaNNoN voice a Antuane
+Ago 05 00:29:12 Max:	eu concordo com o PresidentePy ihhhhh
+Ago 05 00:29:31 PresidentePy:	(eu falo que sou, pq t&#227;o querendo me censurar)
+Ago 05 00:29:31 PresidentePy:	:P
+Ago 05 00:29:34 rodrix:	hahaha, &#233;ssa foi boa. carol n&#233;?
+Ago 05 00:29:57 Antuane:	pronto
+Ago 05 00:30:00 -ChanServ-	No help available for mode.
+Ago 05 00:30:01 -ChanServ-	If you're having trouble, you may want to join the help channel #opers or visit the help webpage http://www.pirateirc.net/
+Ago 05 00:30:05 -ChanServ-	***** ChanServ Help *****
+Ago 05 00:30:05 -ChanServ-	The following commands are available:
+Ago 05 00:30:05 -ChanServ-	ACCESS          Manage channel access.
+Ago 05 00:30:05 -ChanServ-	AKICK           Manipulates a channel's AKICK list.
+Ago 05 00:30:05 -ChanServ-	BAN             Sets a ban on a channel.
+Ago 05 00:30:05 -ChanServ-	CLEAR           Channel removal toolkit.
+Ago 05 00:30:05 -ChanServ-	CLONE           Clones a channel.
+Ago 05 00:30:05 -ChanServ-	COUNT           Shows number of entries in access lists.
+Ago 05 00:30:05 -ChanServ-	DEOP            Removes channel ops from a user.
+Ago 05 00:30:05 -ChanServ-	DEVOICE         Removes channel voice from a user.
+Ago 05 00:30:05 -ChanServ-	DROP            Drops a channel registration.
+Ago 05 00:30:05 -ChanServ-	FLAGS           Manipulates specific permissions on a channel.
+Ago 05 00:30:05 -ChanServ-	GETKEY          Returns the key (+k) of a channel.
+Ago 05 00:30:05 -ChanServ-	HELP            Displays contextual help information.
+Ago 05 00:30:05 -ChanServ-	INFO            Displays information on registrations.
+Ago 05 00:30:05 -ChanServ-	INVITE          Invites you to a channel.
+Ago 05 00:30:05 -ChanServ-	KICK            Removes a user from a channel.
+Ago 05 00:30:05 -ChanServ-	KICKBAN         Removes and bans a user from a channel.
+Ago 05 00:30:05 -ChanServ-	OP              Gives channel ops to a user.
+Ago 05 00:30:05 -ChanServ-	QUIET           Sets a quiet on a channel.
+Ago 05 00:30:05 -ChanServ-	RECOVER         Regain control of your channel.
+Ago 05 00:30:05 -ChanServ-	REGISTER        Registers a channel.
+Ago 05 00:30:05 -ChanServ-	ROLE            Manage channel roles.
+Ago 05 00:30:05 -ChanServ-	SET             Sets various control flags.
+Ago 05 00:30:05 -ChanServ-	STATUS          Displays your status in services.
+Ago 05 00:30:05 -ChanServ-	SYNC            Forces channel statuses to flags.
+Ago 05 00:30:05 -ChanServ-	TAXONOMY        Displays a channel's metadata.
+Ago 05 00:30:05 -ChanServ-	TEMPLATE        Manipulates predefined sets of flags.
+Ago 05 00:30:05 -ChanServ-	TOPIC           Sets a topic on a channel.
+Ago 05 00:30:05 -ChanServ-	TOPICAPPEND     Appends a topic on a channel.
+Ago 05 00:30:05 -ChanServ-	TOPICPREPEND    Prepends a topic on a channel.
+Ago 05 00:30:05 -ChanServ-	TOPICSWAP       Swap part of the topic on a channel.
+Ago 05 00:30:05 -ChanServ-	UNBAN           Removes a ban on a channel.
+Ago 05 00:30:05 -ChanServ-	UNQUIET         Removes a quiet on a channel.
+Ago 05 00:30:05 -ChanServ-	VOICE           Gives channel voice to a user.
+Ago 05 00:30:05 -ChanServ-	WHY             Explains channel access logic.
+Ago 05 00:30:05 -ChanServ-	***** End of Help *****
+Ago 05 00:30:07 Max:	@desci ah v&#225;
+Ago 05 00:30:08 MauricioCoeli:	Isso q o Kannon t&#225; dizend &#233; o que me referia Max
+Ago 05 00:30:17 Antuane:	olha o py!
+Ago 05 00:30:22 Antuane:	uHhhahaahahahah
+Ago 05 00:30:28 PresidentePy:	risos
+Ago 05 00:30:36 Max:	eu vou fazer campanha do daniel, mas como pirata
+Ago 05 00:30:43 *	KaNNoN voice a kinn
+Ago 05 00:30:46 *	KaNNoN voice a tjack
+Ago 05 00:30:48 -ChanServ-	Channel -m is not registered.
+Ago 05 00:30:58 -ChanServ-	-m is not registered.
+Ago 05 00:31:28 -ChanServ-	***** ChanServ Help *****
+Ago 05 00:31:28 -ChanServ-	Help for SET:
+Ago 05 00:31:28 -ChanServ-	 
+Ago 05 00:31:28 -ChanServ-	SET allows you to set various control flags
+Ago 05 00:31:28 -ChanServ-	for channels that change the way certain
+Ago 05 00:31:28 -ChanServ-	operations are performed on them.
+Ago 05 00:31:28 -ChanServ-	 
+Ago 05 00:31:28 -ChanServ-	The following subcommands are available:
+Ago 05 00:31:28 -ChanServ-	ANTIFLOOD       Set anti-flood action
+Ago 05 00:31:28 -ChanServ-	EMAIL           Sets the channel e-mail address.
+Ago 05 00:31:28 -ChanServ-	ENTRYMSG        Sets the channel's entry message.
+Ago 05 00:31:28 -ChanServ-	FANTASY         Allows or disallows in-channel commands.
+Ago 05 00:31:28 -ChanServ-	GUARD           Sets whether or not services will inhabit the channel.
+Ago 05 00:31:28 -ChanServ-	KEEPTOPIC       Enables topic retention.
+Ago 05 00:31:28 -ChanServ-	MLOCK           Sets channel mode lock.
+Ago 05 00:31:28 -ChanServ-	NOSYNC          Disables automatic channel ACL syncing.
+Ago 05 00:31:28 -ChanServ-	PREFIX          Sets the channel PREFIX.
+Ago 05 00:31:28 -ChanServ-	PRIVATE         Hides information about a channel.
+Ago 05 00:31:28 -ChanServ-	PROPERTY        Manipulates channel metadata.
+Ago 05 00:31:28 -ChanServ-	RESTRICTED      Restricts access to the channel to users on the access list. (Other users are kickbanned.)
+Ago 05 00:31:28 -ChanServ-	SECURE          Prevents unauthorized users from gaining operator status.
+Ago 05 00:31:28 -ChanServ-	TOPICLOCK       Restricts who can change the topic.
+Ago 05 00:31:28 -ChanServ-	URL             Sets the channel URL.
+Ago 05 00:31:28 -ChanServ-	VERBOSE         Notifies channel about access list modifications.
+Ago 05 00:31:28 -ChanServ-	 
+Ago 05 00:31:28 -ChanServ-	For more specific help use /msg ChanServ HELP SET command.
+Ago 05 00:31:28 -ChanServ-	***** End of Help *****
+Ago 05 00:31:32 Max:	se &#233; pra indicar n&#227;o precisava fazer consulta uai
+Ago 05 00:31:46 Max:	quem &#233; esse azul?
+Ago 05 00:31:53 desci:	a gente gosta de fazer coisas que n&#227;o precisa, Max
+Ago 05 00:31:57 desci:	&#233; o Daniel falando
+Ago 05 00:32:03 Max:	ah
+Ago 05 00:32:06 PresidentePy:	(e eu voto por ser alguem de brasilia dentro do secretariado)
+Ago 05 00:32:38 PresidentePy:	at&#233; pq acho que a proxima assembleia devia ser em brasilia
+Ago 05 00:33:20 corvolino:	me de op no seu cora&#231;&#227;o
+Ago 05 00:33:29 server-go:	Parece um bom t&#243;pico, Py. Mas com os grupos locais mais articulados, n&#227;o?
+Ago 05 00:33:35 *	ChanServ remover voice de tjack
+Ago 05 00:33:54 PresidentePy:	Pra articular &#233; preciso motivar.
+Ago 05 00:34:05 PresidentePy:	Mas o pessoal s&#243; pensa em cargos.
+Ago 05 00:34:16 desci:	Max, a re&#227;unio de cordena&#231;&#227;o st&#225; acontecendo agora
+Ago 05 00:34:25 desci:	te manifesta agora
+Ago 05 00:34:33 Max:	@desci n&#227;o j&#225; rolou antes
+Ago 05 00:34:33 desci:	A Cris ta cerrta
+Ago 05 00:34:42 KKDragonLord:	decis&#227;o informada &#233; realmente importante, isso parece ser o tipo de coisa que poderia ser feito atrav&#233;s de um f&#243;rum afinal &#233; necess&#225;rio ter uma forma de comparar os argumentos
+Ago 05 00:34:42 desci:	es&#225;t rolando agora
+Ago 05 00:34:45 desci:	temos 6 coordenradores
+Ago 05 00:34:49 Max:	5
+Ago 05 00:34:55 desci:	4 no hangout e 2 no IRC
+Ago 05 00:35:06 desci:	e ta sendo registrado tudo
+Ago 05 00:35:15 desci:	o que ta sendo escrito aqui ta salvo e o v&#237;deo ta salvo
+Ago 05 00:35:18 Fukui:	max, nao eh indicar, eh dizer, olha achamos ele melhor, mas votem como achar melhor
+Ago 05 00:35:23 KKDragonLord:	(sem nem precisar de coment&#225;rios exteriores &#224; coordenadores e candidatos)
+Ago 05 00:35:27 Max:	ou seja, vamos fazer consulta pra indicar quem quiseremos e ignorar a consulta afff
+Ago 05 00:35:28 *	hello saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 00:35:31 Fukui:	porque sabemos que ele eh a pessoa mais indicada pra isso
+Ago 05 00:35:46 Fukui:	CARALHO MAX, VOCE NAO ENTENDEU NADA APARENTEMENTE
+Ago 05 00:35:51 Max:	mas falamos isso como individuos caramba
+Ago 05 00:35:53 rodrix:	bacana a ideia do blog
+Ago 05 00:36:19 server-go:	muito boa msm! um quase di&#225;rio do bordo!
+Ago 05 00:36:36 PresidentePy:	max vota comigo heuehue
+Ago 05 00:36:48 Max:	&#233; o apocalipse mesmo
+Ago 05 00:36:59 desci:	nigu&#233;m vai ignorara a consulta MAx
+Ago 05 00:37:05 server-go:	acho que poderia ser bem interessante ter esse blog
+Ago 05 00:37:15 desci:	a coordena&#231;&#227;o quer indicar o Daniel
+Ago 05 00:37:22 desci:	e vai botar pra vota&#231;&#227;o no loomio isto
+Ago 05 00:37:23 Max:	s&#243; vai dar peso a uma candidatura atrav&#233;s de uma sugest&#227;o
+Ago 05 00:37:38 desci:	e tamb&#233;m abrir pra algu&#233;m que se candiate a seroutro secretario
+Ago 05 00:37:41 desci:	preceisa de dois
+Ago 05 00:37:43 server-go:	pode chamar mais gente pro Piratas e talz
+Ago 05 00:37:48 Max:	putz
+Ago 05 00:37:49 desci:	o loomio vai decidir os dis secretarios
+Ago 05 00:37:51 PresidentePy:	Cara, podem surgir 42 novos candidatos
+Ago 05 00:38:03 desci:	Max, isto j&#225; est&#225; feito
+Ago 05 00:38:13 desci:	est&#227;o fazendo propaganda pro Danielh&#225; muito temp
+Ago 05 00:38:16 desci:	n&#227;o complica, pora
+Ago 05 00:38:16 PresidentePy:	se n&#227;o querem elei&#231;&#227;o, coloca logo o daniel prazeres
+Ago 05 00:38:33 PresidentePy:	sejai honesto
+Ago 05 00:38:34 Max:	isso que &#233; foda, consensuar uma coisa e depois jogar fora e dizer outra
+Ago 05 00:38:54 KKDragonLord:	consenso exige unanimidade maxz
+Ago 05 00:38:57 desci:	o que &#233; que conensuaram e jogaram fora?
+Ago 05 00:39:02 Max:	eu t&#244; falando que vou fazer campanha pra ele, mas n&#227;o como coordenador
+Ago 05 00:39:22 desci:	o que&#233;  que foi consensuado e jogaram fora?
+Ago 05 00:39:24 MauricioCoeli:	Completei no PAD: Ainda que estatutariamente caiba a Coordena&#231;&#227;o indicar associados para ocupar cargos administrativos em vac&#226;ncia, esta optou em por ampliar participativamaente, por uma decisao de todo o coletivo de form aque ser&#225; aberto prazo para candidaturas de acesso a dois cargos de secretaria geral, para apresenta&#231;&#227;o e vota&#231;&#227;o e discuss&#227;o no
+Ago 05 00:39:24 MauricioCoeli:	 Loomio.
+Ago 05 00:39:25 desci:	responde ou retira o que tudisse
+Ago 05 00:39:47 desci:	Max responde ou retira o que tu disse
+Ago 05 00:39:53 PresidentePy:	(melhor mostrar o log da conversa dos coordenadores no facebook)
+Ago 05 00:40:15 Max:	&#233; o que &#233; justo. fazer enquetes pra todos dois cargos conforme foi consensuado. sem indicar daniel direto. indicar daniel direto &#233; foda. pra que todo esse circo ent&#227;o?
+Ago 05 00:40:40 *	server-go saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 00:40:41 desci:	que circo?
+Ago 05 00:40:45 desci:	o &#233;que  justo?
+Ago 05 00:40:47 PresidentePy:	Cris, vc quer debater comigo?
+Ago 05 00:40:48 PresidentePy:	Cris, vc &#233; candidata?
+Ago 05 00:40:48 PresidentePy:	Cris, onde vc esteve ?
+Ago 05 00:40:48 PresidentePy:	Cris, Parabens por participar.
+Ago 05 00:40:53 desci:	Max, a reuni&#227;o &#233; agora.
+Ago 05 00:41:02 desci:	tudo o que foi acordado antes tem que ser exposto agora.
+Ago 05 00:41:04 Max:	&#233; foda
+Ago 05 00:41:08 *	server-go (KiwiIRC@partidopirata.org) entrou
+Ago 05 00:41:11 PresidentePy:	O unico coordenador participante do ultimo ano &#233; o Max
+Ago 05 00:41:13 Antuane:	max, eles n&#227;o est&#227;o falando indicar = nomear, eles est&#227;o falando indicar = recomendar
+Ago 05 00:41:18 rodrix:	n&#227;o pode acumular esse tipo de cargo
+Ago 05 00:41:27 Sunnie:	N&#227;o, Antuane, &#233; o contr&#225;rio
+Ago 05 00:41:28 rodrix:	s&#243; se for regional e nacional
+Ago 05 00:41:38 Sunnie:	Vai ser votado no Loomio e a Coord vai indicar esse
+Ago 05 00:41:41 Sunnie:	esses, tem de ser dois
+Ago 05 00:41:47 PresidentePy:	crosara fez meio que por fora do partido.
+Ago 05 00:41:49 Antuane:	sim, eu entendi
+Ago 05 00:42:00 PresidentePy:	sudeste &#233; uma realidade paralela
+Ago 05 00:42:43 Antuane:	&#233; que o max estava pensando que eles iam determinar diretamente o secret&#225;rio
+Ago 05 00:42:52 KKDragonLord:	nem precisa ser quest&#227;o de f&#233;, com a possibilidade de outros se candidatarem e exporem seu caso, &#233; poss&#237;vel fazer uma escolha informada.
+Ago 05 00:42:56 PresidentePy:	mas eles t&#227;o fazendo isso Antuane
+Ago 05 00:43:09 Max:	huahauhauhauah indicar mas n&#227;o indicar huahauhauahau
+Ago 05 00:43:34 Max:	tanto um quanto o outro sou contra e n&#227;o foi consensuado antes
+Ago 05 00:43:35 Sunnie:	Max
+Ago 05 00:43:36 PresidentePy:	eu 00:45
+Ago 05 00:43:36 PresidentePy:	eu concordo com o max
+Ago 05 00:43:36 PresidentePy:	max concorda comigo
+Ago 05 00:43:39 Sunnie:	O estatuto diz que precisa indicar
+Ago 05 00:43:42 Sunnie:	ent&#227;o precisa indicar
+Ago 05 00:43:45 Sunnie:	Que coisa
+Ago 05 00:43:51 Antuane:	os coordenadores t&#234;m o direito de propor quem quiserem
+Ago 05 00:43:58 PresidentePy:	o mundo pode mudar
+Ago 05 00:44:01 *	SadPilgrim (KiwiIRC@partidopirata.org) entrou
+Ago 05 00:44:03 Max:	eu n&#227;o to falando o caralho
+Ago 05 00:44:04 rodrix:	fala que te escuto
+Ago 05 00:44:10 Antuane:	e os piratas podem votar ou n&#227;o de acordo com a recomenda&#231;&#227;o
+Ago 05 00:44:13 Max:	vai te fuder fukui
+Ago 05 00:44:19 desci:	escreve a&#237; Max
+Ago 05 00:44:27 -ChanServ-	The MLOCK for #piratas has been set to -m.
+Ago 05 00:44:27 *	ChanServ modo -m em #piratas
+Ago 05 00:44:38 server-go:	?
+Ago 05 00:44:54 Max:	n&#227;o vou entrar no hangout prq isso &#233; pra ser uma reuni&#227;o geral n&#227;o da coordena&#231;&#227;o
+Ago 05 00:44:55 desci:	se tu n&#227;o te defender Max, tua opini&#227;o vai ser atropelada
+Ago 05 00:45:02 desci:	e &#233; uma mulher que ta atropelando
+Ago 05 00:45:04 server-go:	Que tal falar "sugerir" ao inv&#233;s de "indicar" j&#225; que t&#225; t&#227;o confuso essa compreens&#227;o...
+Ago 05 00:45:11 Max:	gente que abandonou o cargo falando huahauhauah
+Ago 05 00:45:16 desci:	Max essa &#233; a re&#227;unio de coorden&#227;a&#231;o
+Ago 05 00:45:21 Max:	n&#227;o
+Ago 05 00:45:23 desci:	foi marcada e anunciada como reuni&#227;o da coordena&#231;&#227;o
+Ago 05 00:45:27 Max:	n&#227;o foi
+Ago 05 00:45:31 Max:	reuni&#227;o geral
+Ago 05 00:45:31 desci:	eu n&#227;o vou mais te dar voz no hangout
+Ago 05 00:45:32 KKDragonLord:	uai max, eles j&#225; disseram que vai estar aberto para quem quiser se candidatar, o que mais vc quer?
+Ago 05 00:45:38 desci:	foi sim, olha l no loomi
+Ago 05 00:45:45 Max:	que n&#227;o tenha sugest&#227;o uai
+Ago 05 00:45:49 desci:	reuni&#227;o da coordena&#231;&#227;o e de quem quiser
+Ago 05 00:45:51 desci:	quem quer es&#225;ta aqui
+Ago 05 00:46:07 Max:	daniel &#233; eleito com folga[
+Ago 05 00:46:18 desci:	Max o Fukui j&#225; disseque nao vai ter sugetao
+Ago 05 00:46:22 desci:	acabou esse assunto.
+Ago 05 00:46:36 desci:	daqui pra frente tu respeita a dinamica.
+Ago 05 00:46:42 desci:	&#227;no quer ser coordenador, nao avacalha.
+Ago 05 00:46:49 desci:	tu assumiu essa merda, vai a&#233;t o fim
+Ago 05 00:47:02 Max:	@desci quem &#233;
+Ago 05 00:47:05 KKDragonLord:	o que quer que a coordena&#231;&#227;o tenha dito hoje, pode mudar depois que os candidatos se colocarem
+Ago 05 00:47:14 Max:	fui o coordenador mais ativo.
+Ago 05 00:47:16 Sunnie:	A Coordena&#231;&#227;o n&#227;o vai SUGERIR ningu&#233;m
+Ago 05 00:47:17 desci:	eu&#227; no sou coordenador, n&#227;o interessa quem eu sou
+Ago 05 00:47:17 MauricioCoeli:	Nossa... n&#227;o ouvi isso
+Ago 05 00:47:25 desci:	quem tem que se identificar &#233; tu que &#233; coordenador
+Ago 05 00:47:27 Sunnie:	As candidaturas ser&#227;o colocadas por quem quer participar
+Ago 05 00:47:30 Max:	@desci ent&#227;o foda se
+Ago 05 00:47:31 Sunnie:	Ser&#227;o votadas
+Ago 05 00:47:34 Sunnie:	e Pronto
+Ago 05 00:47:37 Sunnie:	Qual o drama?
+Ago 05 00:47:39 PresidentePy:	e eu penso que o principal n&#227;o &#233; alguem ganhar, a gente devia fazer com que todos candidatos participem, mesmo que fossem 42 piratas
+Ago 05 00:47:50 OmmarMotta:	mais <3
+Ago 05 00:47:53 SadPilgrim:	hahahahha
+Ago 05 00:47:57 server-go:	&#233; isso! o voto tem for&#231;a final...
+Ago 05 00:47:58 desci:	Max eu to te dando voz no hangout
+Ago 05 00:48:06 desci:	a&#227; galera no quer nem saber da tua opini&#227;o
+Ago 05 00:48:18 desci:	mas&#233;  s&#243; eu ficar queito que tu perde a tua voz
+Ago 05 00:48:19 KKDragonLord:	se n&#227;o tivesse tido quebra de consenso isso n&#227;o teria acontecido e o consenso s&#243; poderia ter sido quebrado depois que fosse exposto que h&#225; alguem que n&#227;o concordava com a indica&#231;&#227;o
+Ago 05 00:48:20 desci:	simples
+Ago 05 00:48:27 desci:	e quem se fode &#233; tu, n&#227;o eu
+Ago 05 00:48:28 KKDragonLord:	pronto
+Ago 05 00:48:28 Sunnie:	Todo mundo quer saber a opini&#227;o
+Ago 05 00:48:35 Max:	+PresidentePy eu voto contigo na pr&#243;xima anapirata no board
+Ago 05 00:49:04 rodrix:	o importante &#233; todos os cordenadores ratificarem a comunica&#231;ao do novo secretario para o tse
+Ago 05 00:49:19 PresidentePy:	e o alex?
+Ago 05 00:49:23 Max:	eu n&#227;o entendo como algu&#233;m fica ausente quase toda gest&#227;o e da&#237; vem me falar que eu n&#227;o participo?
+Ago 05 00:49:35 Max:	n&#227;o teve consenso nisso po
+Ago 05 00:49:48 Max:	cala a boca iuri
+Ago 05 00:50:02 desci:	beleza Max
+Ago 05 00:50:10 desci:	deixa a Cris falar e tu que se foda
+Ago 05 00:50:24 desci:	a op&#227;inio de quem ta com o microfone na mao &#233; que val agora
+Ago 05 00:50:35 desci:	eu calo a boca e foi tu quem pediu
+Ago 05 00:50:45 Max:	huahuahuahuah querem me atropelar
+Ago 05 00:50:47 desci:	viu s&#243;, "pauta superada"
+Ago 05 00:50:59 desci:	Max, ta todo mundo vendo que tu &#233; um covarde
+Ago 05 00:51:09 desci:	n&#227;o tem ni&#233;gum a favor de apoiar essa tua birra
+Ago 05 00:51:14 Max:	@desci n&#227;o fode cunha pirata
+Ago 05 00:51:16 Max:	golpista
+Ago 05 00:51:32 KaNNoN:	voc&#234;s est&#227;o todos se divertindo e a cris l&#225; nervosa
+Ago 05 00:51:38 KaNNoN:	malvados
+Ago 05 00:51:50 rodrix:	vamos fazer essa consulta para alimentar esse consenso
+Ago 05 00:52:05 Max:	ela passa a gest&#227;o toda fora, me manda eu me foder prq n&#227;o queria fazer reuni&#227;o antes, agora vem com essa hist&#243;ria
+Ago 05 00:52:17 SadPilgrim:	joguem a baga&#231;a pra votar no loomio e pronto..
+Ago 05 00:52:31 MauricioCoeli:	Ok, n&#227;o tem consenso da Coordena&#231;&#227;o, abre candidatura para qualquer associado no Loomio, vota-se e  quem levar  a Coordena&#231;&#227;o 'indica'
+Ago 05 00:53:00 Max:	n&#227;o vamos confiar nos piratas
+Ago 05 00:53:10 server-go:	Mas isso j&#225; tava certo a mais de 45 minutos, MauricioCoeli
+Ago 05 00:53:16 MauricioCoeli:	O Coletivo (todos associados) v&#227;o votar
+Ago 05 00:53:18 OmmarMotta:	...............
+Ago 05 00:53:30 Michele:	Max, desculpa, eu to acompanhando mas n&#227;o to conseguindo entender o que vc quer
+Ago 05 00:53:47 MauricioCoeli:	Algu&#233;m mais al&#233;m do server-go concorda que fechou nisso ent&#227;o?
+Ago 05 00:53:49 rodrix:	at&#233; mais tmb, depois eu vejo a grava&#231;&#227;o
+Ago 05 00:53:49 Max:	MauricioCoeli era isso que tinha sido consensuado
+Ago 05 00:53:59 *	rodrix saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 00:54:15 desci:	Max s&#243;&#233;  consenso o que for pro loomio
+Ago 05 00:54:28 Sunnie:	Mas foi isso que a gente discutiu o tempo todo, Max
+Ago 05 00:54:28 desci:	o Loomio&#233;  a ferramenta letgtima de consenso e v&#227;ota&#231;o e del&#227;ibera&#231;o
+Ago 05 00:54:29 server-go:	N&#227;o falo pelos outros, mas v&#237; o Max s&#243; questionando diretamente...
+Ago 05 00:54:33 desci:	conversinha de meia duzia de feissebuqui n&#227;o&#233;  conseno
+Ago 05 00:54:37 Sunnie:	Quer dizer, voc&#234; fez esse fuzu&#234; todo por nada
+Ago 05 00:54:40 Max:	@desci consenso da coordena&#231;&#227;o besta
+Ago 05 00:54:42 Sunnie:	Oxe
+Ago 05 00:54:48 desci:	e quem acha qu&#233;e  vai ser marginalizda
+Ago 05 00:54:51 server-go:	justamente sunnie
+Ago 05 00:55:04 desci:	Max a re&#227;unio de coordena&#231;&#227;o a agora
+Ago 05 00:55:09 PresidentePy:	eu gostaria de saber qual o perfil de um secretario pirata. &#233; o perfil da cris? &#233; o perfil 'leitor de estatuto' ? &#233; o perfil 'ativista' ' ou militante?
+Ago 05 00:55:09 desci:	est&#225; aacontecendo agroa
+Ago 05 00:55:22 Max:	queriam fazer sugest&#227;o de nome, isso n&#227;o foi consensuado, ponto.
+Ago 05 00:55:37 desci:	mas eu n&#227;o vou falar isto porque tu &#227;no quer queeu defenda a tua opini&#227;o
+Ago 05 00:55:52 MauricioCoeli:	Justamente server-go e sunnie
+Ago 05 00:56:05 server-go:	Bom apontamento PresidentePy
+Ago 05 00:56:27 KKDragonLord:	e s&#243; seria possivel descobrir que n&#227;o havia consenso quando descobriu-se que n&#227;o havia consenso e isso s&#243; poderia acontecer depois que a "sugest&#227;o" tivesse sido feita
+Ago 05 00:56:29 Max:	n&#227;o vou entrar no hangout prq discordo disso. isso &#233; uma reuni&#227;o geral, era pra ta todos aqui como iguais.
+Ago 05 00:56:40 KKDragonLord:	&#233; uma quest&#227;o de causalidade
+Ago 05 00:56:52 Fukui:	o perfil eh o de office boy/arquivista
+Ago 05 00:57:00 desci:	Max a coorde&#227;na&#231;o se re&#250;ne assim
+Ago 05 00:57:03 Michele:	hahahaha
+Ago 05 00:57:06 server-go:	eita fukui
+Ago 05 00:57:11 Fukui:	serio
+Ago 05 00:57:12 desci:	a coordena&#227;&#231;o do partido pirata nao se reune escondida.
+Ago 05 00:57:13 PresidentePy:	apoio apolinario
+Ago 05 00:57:17 desci:	se tu acha que sim, tu n&#227;o &#233; da coordena&#227;&#231;o.
+Ago 05 00:57:22 Max:	@desci foi deliberado via email
+Ago 05 00:57:33 Fukui:	o maior trabalho eh de ir num monte de lugar e ficar guardando documento
+Ago 05 00:57:34 desci:	quinta feira a gente se r&#250;ene de novo, gurizada?
+Ago 05 00:57:41 Max:	eu n&#227;o
+Ago 05 00:57:44 MauricioCoeli:	Quinta que horas?
+Ago 05 00:57:49 desci:	cade o emxail, Max?
+Ago 05 00:57:52 PresidentePy:	Apoio do grupo sem o max ao daniel ehuehueh
+Ago 05 00:57:55 KaNNoN:	Mesmo bat hor&#225;rio. Com uma ferramenta melhor.
+Ago 05 00:57:57 desci:	cade o email? no site? no loomio?
+Ago 05 00:58:08 desci:	e-mail qu&#227;e&#233; no  p&#250;blico n&#227;o &#233; da coordena&#231;&#227;o do meu partido.
+Ago 05 00:58:10 Max:	na caixa de emails
+Ago 05 00:58:26 desci:	bom e&#227;nto &#233; i&#225;nvlido.
+Ago 05 00:58:33 MauricioCoeli:	Blz Kannon
+Ago 05 00:58:36 desci:	&#243;&#233;s  &#225;vlido oque &#233; p&#250;blico e transparente.
+Ago 05 00:58:37 Fukui:	eu nao consigo na quinta durante a noite, a loja fecha tarde
+Ago 05 00:58:52 Max:	n&#227;o.
+Ago 05 00:58:54 server-go:	desci, n&#227;o seria legal centralizar a comunica&#231;&#227;o
+Ago 05 00:59:07 desci:	a Cris disse que isto n&#227;o foi discutio internamente.
+Ago 05 00:59:11 server-go:	tipo, no loomio?
+Ago 05 00:59:16 KKDragonLord:	n&#227;o seria melhor decidir apoio depois de ver o que os candidatos v&#227;o falar de si pr&#243;prios?
+Ago 05 00:59:17 desci:	que n&#227;o teve consenso e que ningu&#233;m decidiu.
+Ago 05 00:59:20 server-go:	ou no slack
+Ago 05 00:59:24 Max:	de 4 hauhauahauhauha
+Ago 05 00:59:30 desci:	a hora dedecidir e da coordnea&#231;&#227;o consesuar &#233; agora.
+Ago 05 00:59:37 Max:	se ignora emails n&#227;o tenho culpa
+Ago 05 01:00:08 desci:	se tu ignora reuni&#245;es abertas e&#227;u no tenho culpa.
+Ago 05 01:00:23 desci:	&#233; foda ter que se defender n&#233;?
+Ago 05 01:00:29 KKDragonLord:	se o consenso n&#227;o &#233; unanime, n&#227;o &#233; consenso, e se for maioria simples, &#233; uma decis&#227;o autorit&#225;ria
+Ago 05 01:00:30 desci:	e ma&#225;is fcil fazer as coisas na moita e nao ser questionado n&#233;?
+Ago 05 01:00:45 Max:	&#233; s&#243; o que eu fa&#231;o, sou o vil&#227;o de mts mesmo
+Ago 05 01:01:35 OmmarMotta:	assim. deve ter uma maneira de lidar com isso sem ser autoritaria.
+Ago 05 01:02:02 Max:	ah n&#227;o huahauahuaha
+Ago 05 01:02:03 PresidentePy:	Nunca tivemos uma reuni&#227;o da coordenadoria.
+Ago 05 01:02:13 KKDragonLord:	n&#227;o faz sentido a cris querer dar opini&#227;o sobre candidatos sem saber quais ser&#227;o os candidatos
+Ago 05 01:02:56 Max:	j&#225; teve sim e ela me mandou eu me fuder prq estava na praia e n&#227;o queria participar de reuni&#227;o, depois ficou com o papo derrotista e tal
+Ago 05 01:03:05 SadPilgrim:	te que ter cargo pra entrar no hangout?
+Ago 05 01:03:19 Max:	SadPilgrim &#233; que fizeram
+Ago 05 01:03:23 Max:	eu discordo
+Ago 05 01:03:32 Max:	por mim seria s&#243; aqui no IRC
+Ago 05 01:03:32 SadPilgrim:	achei que era geralz&#227;o aberto
+Ago 05 01:03:41 SadPilgrim:	ai fica foda
+Ago 05 01:03:43 server-go:	O hangout limita os participantes Sadpilgrim
+Ago 05 01:04:05 Fukui:	o problema eh que nao cabe
+Ago 05 01:04:12 Fukui:	mas tem uma vaga
+Ago 05 01:04:13 server-go:	a&#237; ficou um esquema meio audio - hangout - meio chat - irc...
+Ago 05 01:04:17 Max:	foi convocado como reuni&#227;o geral, mas depois fizeram issae
+Ago 05 01:04:23 Fukui:	CARALHO
+Ago 05 01:04:36 desci:	en&#227;to mostra a&#237; o e-mail dela mandando se fuder Max
+Ago 05 01:04:44 SadPilgrim:	at&#233; a Aiesec l&#225; usava um paranau&#234; mais pr&#225;tico.... esses piratas viu
+Ago 05 01:04:47 desci:	aprende a gravar a registrar as coisa
+Ago 05 01:04:48 Max:	pol&#237;cia? NSA?
+Ago 05 01:04:48 Fukui:	A ANA TA LA E NAO EH COORDENACAO, O DANTAS TA LA, IURI TA LA E NENHUM DELES EH COORDENADOR
+Ago 05 01:04:53 desci:	o mundo e hostiel e cruel, meu filho
+Ago 05 01:05:00 Max:	que bom pra eles
+Ago 05 01:05:58 SadPilgrim:	tsc tsc
+Ago 05 01:06:07 *	Sunnie saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:06:21 server-go:	registro &#233; hist&#243;ria... e &#233; importante Max... n&#227;o ignore isso nem ache q tudo &#233; controle...
+Ago 05 01:06:54 server-go:	E nessas horas n&#227;o fica com a discuss&#227;o "barulhada"
+Ago 05 01:07:02 Max:	come&#231;ou a bobagem do iuri
+Ago 05 01:07:11 Antuane:	Na boa, muuuuuita picuinha desnecess&#225;ria
+Ago 05 01:07:11 desci:	a tua ainda n&#227;o terminou Max
+Ago 05 01:07:19 desci:	at&#233; o tjack ta dormindo aqui
+Ago 05 01:07:25 desci:	e ele tomou mais energetico que eu
+Ago 05 01:07:41 SadPilgrim:	o cara parece o anondatp
+Ago 05 01:07:41 desci:	eu vou ser pau no cu e filmar ele
+Ago 05 01:07:42 desci:	com a camera do hangout
+Ago 05 01:07:43 server-go:	Gostei da ideia do Iuri
+Ago 05 01:08:45 PauloFanti:	Um Abraco a TODOS !!! Ahoy !!!
+Ago 05 01:08:56 desci:	de botar camiseta na cara?
+Ago 05 01:09:25 PauloFanti:	Vejo vcs na proxima !!! Ahoy !!!
+Ago 05 01:09:27 Fukui:	arrois
+Ago 05 01:09:37 Michele:	Boa noite
+Ago 05 01:09:43 SadPilgrim:	ahoy
+Ago 05 01:09:54 desci:	at&#233; agora quatro coordenadores afimrando que N&#195;O EXISTEM reuni&#245;es fechadas
+Ago 05 01:09:56 PauloFanti:	Boa noite a todos !!! Ahoy !!!
+Ago 05 01:10:00 server-go:	n&#227;o desci ...
+Ago 05 01:10:00 desci:	UM afirmando que existem
+Ago 05 01:10:01 *	PauloFanti saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:10:26 desci:	s&#227;o quatro mentirosos profissionais, n&#233; Max?
+Ago 05 01:10:39 desci:	quando eu crescer quero ser coordenador dos pirata
+Ago 05 01:10:40 server-go:	s&#243; vi isso agora... de refor&#231;ar a comunica&#231;&#227;o e talz
+Ago 05 01:10:41 KaNNoN:	existe ou n&#227;o existe?
+Ago 05 01:10:56 desci:	eu que quero foder com a google to nessa porra de hangout
+Ago 05 01:11:10 *	Max saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:11:11 desci:	engoli toda aminha ideologia pra entrar nessa merda e levar o IRC pra l&#225;
+Ago 05 01:11:28 desci:	mas &#237;a eu &#233; que sou sect&#225;rio e falo bobagem&#233; n
+Ago 05 01:12:14 OmmarMotta:	Ou abre a decisao ou nao abre.  j&#225; que abriu, lida com isso.
+Ago 05 01:12:25 Antuane:	falou pessoal, arroz!
+Ago 05 01:12:37 Michele:	Falou
+Ago 05 01:12:43 dez:	gravam
+Ago 05 01:12:46 SadPilgrim:	arroz!
+Ago 05 01:12:54 SadPilgrim:	cri cri
+Ago 05 01:13:00 server-go:	feij&#227;o!
+Ago 05 01:13:05 server-go:	kkkk
+Ago 05 01:13:06 Antuane:	fui! abra&#231;os!
+Ago 05 01:13:12 *	Antuane saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:13:24 SadPilgrim:	mambo &#233; tudo de bom.
+Ago 05 01:13:43 MauricioCoeli:	Hospeda pra n&#243;s desci!!!
+Ago 05 01:14:01 *	kinn saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:14:01 desci:	Antes de ser pirata eu sou ladrao
+Ago 05 01:14:08 MauricioCoeli:	J&#225; estamos usando em Minas! E montando um tutorial
+Ago 05 01:14:11 desci:	eu roubo dinheiro do governo mesmo
+Ago 05 01:14:16 desci:	e que se foda a porra toda
+Ago 05 01:14:52 server-go:	um conceito de roubo muito interessante desci ....
+Ago 05 01:15:21 desci:	claro
+Ago 05 01:15:22 SadPilgrim:	achamos quem quebrou o RS
+Ago 05 01:15:31 server-go:	opa! qual o n&#243;?
+Ago 05 01:15:31 MauricioCoeli:	A gente arrecada em Minas pra ajudar @desci
+Ago 05 01:15:32 desci:	prefeitura&#227; no serve pro que ela se pr&#245;ope
+Ago 05 01:15:37 desci:	a prefeitura mente
+Ago 05 01:15:42 desci:	o que eu fa&#231;o&#233;  legitimar uma mentira
+Ago 05 01:15:46 desci:	ent&#227;&#227;o eu no trabalho
+Ago 05 01:15:49 desci:	eu fa&#231;o de conta
+Ago 05 01:15:54 server-go:	GO pode tentar ajudar
+Ago 05 01:15:56 desci:	logo, estou roubando
+Ago 05 01:16:07 MauricioCoeli:	Garoto experto esse desci
+Ago 05 01:16:30 server-go:	master! desci
+Ago 05 01:17:50 SadPilgrim:	a gente precisa de um imageboard... s&#243; acho
+Ago 05 01:18:04 SadPilgrim:	piratachan
+Ago 05 01:18:11 desci:	tem mais alguma coisa gurizada?
+Ago 05 01:18:17 desci:	o fukui foi embora
+Ago 05 01:18:18 MauricioCoeli:	Pode ser tb, independente de ser com o Fukui ou desci &#233; s&#243; a galera contribuir $
+Ago 05 01:18:28 desci:	querem que a gente fale sobre comida vegana?
+Ago 05 01:18:45 server-go:	E como a gente poderia organizar isso?
+Ago 05 01:18:46 Michele:	kkkkk
+Ago 05 01:18:59 server-go:	esse lance da grana...
+Ago 05 01:19:06 Michele:	Tchau Fukui
+Ago 05 01:19:15 MauricioCoeli:	Minas manda Mate Couro pro desci e cartas de magic pro Fukui
+Ago 05 01:19:19 *	lucasdcarvalho saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:19:30 server-go:	um esquema mais centralizado... pique vaquinha....
+Ago 05 01:19:40 Michele:	Boa noite a todos
+Ago 05 01:19:51 *	Fukui saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:19:53 SadPilgrim:	tinha que fazer umas festa pirata em cada canto ..dai juntava umas Dilmas e p&#225;
+Ago 05 01:20:13 MauricioCoeli:	&#201; o que usamos server-go
+Ago 05 01:20:34 desci:	este canal &#233; 24 horas por dia logado
+Ago 05 01:20:41 desci:	MENTIIRAAAA
+Ago 05 01:20:42 MauricioCoeli:	Falei coisa pra caralho...
+Ago 05 01:20:54 server-go:	qual o endere&#231;o l&#225;? tem como controlar... entradas e saida???
+Ago 05 01:20:56 *	Michele (KiwiIRC@partidopirata.org) saiu
+Ago 05 01:20:58 MauricioCoeli:	A maioria aqui tem q acordar as 7...
+Ago 05 01:21:38 desci:	porra dez compartilha o trampo a&#237; mano
+Ago 05 01:21:53 desci:	vamos fazer junto esse tutorial do mumble
+Ago 05 01:21:56 server-go:	kkkk
+Ago 05 01:22:08 dez:	ja fiz
+Ago 05 01:22:15 dez:	ta uma merda
+Ago 05 01:22:20 dez:	mas ja fiz
+Ago 05 01:22:24 dez:	video
+Ago 05 01:22:30 server-go:	disponibilizada pra gente poder melhorar ent&#227;o...
+Ago 05 01:22:31 MauricioCoeli:	Blz desci... temos um video, mas faltou o audio ai acho que vamos refazer e eu vou montar o texto
+Ago 05 01:23:12 MauricioCoeli:	Ele j&#225; fez...
+Ago 05 01:23:16 server-go:	Goi&#225;s!
+Ago 05 01:23:52 MauricioCoeli:	Tamos montando e por isso que te perguntamos sobre hospedagem
+Ago 05 01:24:12 server-go:	Goi&#225;s tamb&#233;m t&#225; presente tb....
+Ago 05 01:24:13 desci:	o que &#233; que eu disse que eu ia fazer?
+Ago 05 01:24:20 desci:	redirecionar os urls antigos da biblitoeca &#233;n
+Ago 05 01:24:20 dez:	https://www.youtube.com/watch?v=-Gvzs-BRS9g maq virtual
+Ago 05 01:24:51 *	DanPrazeres saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:24:52 SadPilgrim:	ningu&#233;m do PR tb
+Ago 05 01:25:00 MauricioCoeli:	Ai desci o video-tutorial do dez
+Ago 05 01:25:03 server-go:	Nem pernambuco ?
+Ago 05 01:25:17 dez:	vo ver se eu fa&#231;o um com menos tempo
+Ago 05 01:25:32 MauricioCoeli:	E com audio dez rs
+Ago 05 01:25:53 server-go:	bom... falows
+Ago 05 01:26:03 *	KKDragonLord saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:26:14 *	coisa (KiwiIRC@partidopirata.org) entrou
+Ago 05 01:26:48 MauricioCoeli:	Vou nessa galera... desci a gente conversa  e acerta essa parada de hospedagem e do tutorial, blz?
+Ago 05 01:28:18 *	server-go (KiwiIRC@partidopirata.org) saiu
+Ago 05 01:28:53 *	coisa agora &#233; bot
+Ago 05 01:29:06 *	bot agora &#233; NSA
+Ago 05 01:29:11 *	corvolino saiu (Quit: This computer has gone to sleep)
+Ago 05 01:29:12 *	KKDragonLord (KiwiIRC@partidopirata.org) entrou
+Ago 05 01:29:27 desci:	rteuni&#227;o acabou
+Ago 05 01:29:29 desci:	j&#225; era
+Ago 05 01:29:51 *	KKDragonLord saiu (Client Quit)
+Ago 05 01:30:44 NSA:	n&#227;o parece
+Ago 05 01:30:53 NSA:	estamos registrando ainda
+Ago 05 01:31:09 *	lcp2004 (KiwiIRC@partidopirata.org) entrou
+Ago 05 01:31:16 NSA:	altos logs
+Ago 05 01:31:28 *	MauricioCoeli (KiwiIRC@partidopirata.org) saiu
+Ago 05 01:32:53 SadPilgrim:	eu ia ler essa bosta caralho...olha o spoiler ai
+Ago 05 01:33:39 OmmarMotta:	 limpa os logs
+Ago 05 01:36:36 *	lcp2004 saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:41:08 PresidentePy:	SadPilgrim: mumble
+Ago 05 01:41:08 PresidentePy:	eu nem falo no irc
+Ago 05 01:42:08 *	SadPilgrim saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:43:43 *	SadPilgrim (KiwiIRC@partidopirata.org) entrou
+Ago 05 01:43:52 *	NSA saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:43:58 *	NSA (KiwiIRC@partidopirata.org) entrou
+Ago 05 01:44:32 *	NSA saiu (Client Quit)
+Ago 05 01:46:20 desci:	beleza
+Ago 05 01:46:35 desci:	agora &#233; biblioteca.partidopirata.org
+Ago 05 01:52:22 *	SadPilgrim (KiwiIRC@partidopirata.org) saiu
+Ago 05 01:55:23 *	PresidentePy saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 01:55:36 OmmarMotta:	 /quit
+Ago 05 01:55:38 *	OmmarMotta saiu (Quit: Leaving)
+Ago 05 02:43:27 *	Py (KiwiIRC@partidopirata.org) entrou
+Ago 05 02:43:33 Py:	Precisamos estabelecer um limite de uma hora de reuni&#227;o e definir as pautas.  A reuni&#227;o foi emergencial pela ausencia de secretraria geral. Precisamos incentivar a secretaria colegiada ou cria&#231;&#227;o do board integrado entre os grupos de trabalho e delibera&#231;&#227;o. N&#227;o fechar as decis&#245;es que afeta a todos antes de um debate coletivo. Fazer sempre avalia&#231;&#245;e
+Ago 05 02:43:33 Py:	s do que realmente precisamos, antes de definir de cara que &#233; isso ou &#233; aquilo. O ideal pirata &#233; se divertir, no seu cotidiano, como hackerspaces. Um lar bem simples com amigos fazendo algo junto ou sozinho. Caso voc&#234; n&#227;o seja do juridico ou do tecnico ou da comunica&#231;&#227;o, voc&#234; pode 'delegar' isso pra outra pessoa, &#233; a tal 'democracia liquida' que qu
+Ago 05 02:43:33 Py:	eremos.  Vamos todo mundo segurar uma ponta do barco e dar aquele empurr&#227;o, nos inspirar em diversos piratas do mundo que conseguiram contemplar o conselho da internacional pirata com brasileiros, japoneses, homens, mulheres etc.  As pessoas querem aderir a algo sem disputas e que seja para todas pessoas os espa&#231;os
+Ago 05 02:43:50 desci:	Py
+Ago 05 02:43:54 desci:	joga  nolomio
+Ago 05 02:43:59 desci:	nin&#233;gum quer saber disto
+Ago 05 02:44:02 Py:	joguei
+Ago 05 02:44:24 desci:	ah ta
+Ago 05 02:44:31 desci:	ta fazendo marketing de guerrlha
+Ago 05 02:44:34 Py:	si
+Ago 05 02:44:36 desci:	pros imbecis que &#227;no v&#227;o ler no loomio
+Ago 05 02:44:42 desci:	boto&#233; f
+Ago 05 02:44:50 desci:	tem que pixar o muro da frente da casa de todo mundo mesmo
+Ago 05 02:45:01 Py:	tu acorda que horas
+Ago 05 02:45:13 desci:	daqui a pouco
+Ago 05 02:59:20 *	Py saiu (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+Ago 05 03:24:53 desci:	meu e-mail
+Ago 05 03:24:57 desci:	iur@pirat.xyz
+Ago 05 03:24:58 desci:	cacete
+Ago 05 03:25:04 desci:	iuri@pirata.xyz
+Ago 05 03:25:12 desci:	&#233; ese
